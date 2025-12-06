@@ -5,7 +5,7 @@ FROM python:3.11-slim
 WORKDIR /app
 
 # Copy toàn bộ thư mục Load Data vào container
-COPY "Load Data/" /app/Load_Data/
+COPY Load_Data/ /app/Load_Data/
 
 # Cài dependencies cần thiết
 RUN pip install --no-cache-dir pandas asyncpg python-dotenv
