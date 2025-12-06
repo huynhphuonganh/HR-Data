@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from contextlib import asynccontextmanager
 
 # Load biến môi trường
-load_dotenv()
+# load_dotenv()
 
 DATABASE_URL = os.getenv("SQLALCHEMY_DATABASE_URL_CLOUD")
 
