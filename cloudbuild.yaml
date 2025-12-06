@@ -1,0 +1,8 @@
+options:
+  logging: CLOUD_LOGGING_ONLY
+
+steps:
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', 'gcr.io/smartcv-data-pipeline/data-pipeline:$COMMIT_SHA', '.']
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'gcr.io/smartcv-data-pipeline/data-pipeline:$COMMIT_SHA']
