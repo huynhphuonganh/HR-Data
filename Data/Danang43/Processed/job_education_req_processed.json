@@ -1,0 +1,4546 @@
+{
+  "metadata": {
+    "table_name": "job_education_req",
+    "total_records": 756,
+    "processed_time": "2025-11-06T20:43:27.775294",
+    "description": "Cleaned and standardized job_education_req data."
+  },
+  "job_education_requirements": [
+    {
+      "title": "Kế Toán Thuế",
+      "education_level": "bachelor",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Thuế",
+      "education_level": "bachelor",
+      "field_of_study": "Kiểm toán",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Thuế",
+      "education_level": "bachelor",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh (Nghỉ T7, CN) – Thu nhập 12tr/ tháng",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Caddie (Part-Time)",
+      "education_level": "high_school",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Bếp – CBNV",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Phòng Kinh Doanh – Lương cứng 16 triệu",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Trưởng",
+      "education_level": "bachelor",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Trưởng",
+      "education_level": "bachelor",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Trưởng",
+      "education_level": "bachelor",
+      "field_of_study": "Kế toán trưởng",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Lễ tân – Thu Ngân",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Buồng Phòng",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Digital Marketing",
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Digital Marketing",
+      "education_level": "other",
+      "field_of_study": "Truyền thông",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Digital Marketing",
+      "education_level": "other",
+      "field_of_study": "Thương mại điện tử",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Digital Marketing",
+      "education_level": "other",
+      "field_of_study": "Facebook",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Digital Marketing",
+      "education_level": "other",
+      "field_of_study": "Instagram",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân Viên Kỹ Thuật Điện – Điện Lạnh",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kỹ Thuật Điện – Điện Lạnh",
+      "education_level": "other",
+      "field_of_study": "Điện",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân Viên Kỹ Thuật Điện – Điện Lạnh",
+      "education_level": "other",
+      "field_of_study": "Điện lạnh",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân Viên Kỹ Thuật Bảo Trì Khách sạn",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Hỗ trợ & Chăm sóc Khách hàng Quốc tế",
+      "education_level": "associate",
+      "field_of_study": "Truyền thông",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Hỗ trợ & Chăm sóc Khách hàng Quốc tế",
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Hỗ trợ & Chăm sóc Khách hàng Quốc tế",
+      "education_level": "associate",
+      "field_of_study": "Ngoại ngữ english",
+      "mandatory": false
+    },
+    {
+      "title": "Kỹ sư giám sát thi công",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh [Không Yêu Cầu Kinh Nghiệm]",
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh [Không Yêu Cầu Kinh Nghiệm]",
+      "education_level": "other",
+      "field_of_study": "Qtkd",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh [Không Yêu Cầu Kinh Nghiệm]",
+      "education_level": "other",
+      "field_of_study": "Thương mại",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh – Tư vấn Tài chính Cá nhân",
+      "education_level": "high_school",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ Thuật",
+      "education_level": "other",
+      "field_of_study": "Điện điện tử",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ Thuật",
+      "education_level": "other",
+      "field_of_study": "Điện công nghiệp",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ Thuật",
+      "education_level": "other",
+      "field_of_study": "Cơ khí",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Sale Nội Thất",
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Sale Nội Thất",
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Sale Nội Thất",
+      "education_level": "associate",
+      "field_of_study": "Xây dựng",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Sale Nội Thất",
+      "education_level": "associate",
+      "field_of_study": "Cơ khí",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Sale Nội Thất",
+      "education_level": "associate",
+      "field_of_study": "Kỹ thuật cấp thoát nước",
+      "mandatory": true
+    },
+    {
+      "title": "Giám Đốc Điều Hành",
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Giám Đốc Điều Hành",
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Giám Đốc Điều Hành",
+      "education_level": "bachelor",
+      "field_of_study": "Xây dựng",
+      "mandatory": true
+    },
+    {
+      "title": "Giám Đốc Điều Hành",
+      "education_level": "bachelor",
+      "field_of_study": "Thiết kế",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật Điện Công Nghiệp",
+      "education_level": "associate",
+      "field_of_study": "Điện",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kỹ Thuật Cơ Điện",
+      "education_level": "other",
+      "field_of_study": "Điện",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kỹ Thuật Cơ Điện",
+      "education_level": "other",
+      "field_of_study": "Điện công nghiệp",
+      "mandatory": true
+    },
+    {
+      "title": "Quản lý Tổ chức Sự kiện (Event Manager)",
+      "education_level": "associate",
+      "field_of_study": "Quản trị sự kiện",
+      "mandatory": true
+    },
+    {
+      "title": "Quản lý Tổ chức Sự kiện (Event Manager)",
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Quản lý Tổ chức Sự kiện (Event Manager)",
+      "education_level": "associate",
+      "field_of_study": "Truyền thông",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Kinh doanh Du lịch (Outbound, Inbound)",
+      "education_level": "other",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Kinh doanh Du lịch (Outbound, Inbound)",
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Kinh doanh Du lịch (Outbound, Inbound)",
+      "education_level": "other",
+      "field_of_study": "Quản trị du lịch lữ hành",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Kinh doanh Du lịch (Outbound, Inbound)",
+      "education_level": "other",
+      "field_of_study": "Kinh doanh quốc tế",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Kinh doanh Du lịch (Outbound, Inbound)",
+      "education_level": "other",
+      "field_of_study": "It",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Kinh doanh Du lịch (Outbound, Inbound)",
+      "education_level": "other",
+      "field_of_study": "Ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "title": "Công nhân Sản xuất (Nam/Nữ)",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Kỹ Thuật Sửa Chữa (Điện – Điện Tử – Máy in)",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Lễ Tân Tiếp Nhận Máy",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Giao hàng",
+      "education_level": "high_school",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật Bảo trì – Điện Nước",
+      "education_level": "high_school",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Giáo viên tiếng Anh (Sơn Trà, Liên Chiểu)",
+      "education_level": "bachelor",
+      "field_of_study": "Nghiệp vụ sư phạm",
+      "mandatory": true
+    },
+    {
+      "title": "Giáo viên tiếng Anh (Sơn Trà, Liên Chiểu)",
+      "education_level": "bachelor",
+      "field_of_study": "Sư phạm tiếng anh",
+      "mandatory": true
+    },
+    {
+      "title": "Giáo viên tiếng Anh (Sơn Trà, Liên Chiểu)",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": false
+    },
+    {
+      "title": "Giáo viên tiếng Anh (Sơn Trà, Liên Chiểu)",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Văn phòng",
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Văn phòng",
+      "education_level": "associate",
+      "field_of_study": "Công nghệ thông tin",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kế Toán",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Thực tập sinh Hành chính Nhân sự",
+      "education_level": "other",
+      "field_of_study": "Quản trị nhân sự",
+      "mandatory": true
+    },
+    {
+      "title": "Thực tập sinh Hành chính Nhân sự",
+      "education_level": "other",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Chốt đơn Fanpage",
+      "education_level": "associate",
+      "field_of_study": "Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Chốt đơn Fanpage",
+      "education_level": "associate",
+      "field_of_study": "Thương mại",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Chốt đơn Fanpage",
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Chốt đơn Fanpage",
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Kế toán Tổng hợp",
+      "education_level": "associate",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Kế toán Tổng hợp",
+      "education_level": "associate",
+      "field_of_study": "Kiểm toán",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Tư Vấn Tuyển Sinh (10 đến 25 triệu/tháng)",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Bộ Phận Khuôn Mẫu",
+      "education_level": "associate",
+      "field_of_study": "Cơ khí",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Bộ Phận Khuôn Mẫu",
+      "education_level": "associate",
+      "field_of_study": "Chế tạo máy",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng phòng Quản lý Kinh doanh (SM)",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Giám đốc Nhân sự",
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị nhân sự",
+      "mandatory": true
+    },
+    {
+      "title": "Giám đốc Nhân sự",
+      "education_level": "bachelor",
+      "field_of_study": "Luật",
+      "mandatory": true
+    },
+    {
+      "title": "Giám đốc Nhân sự",
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Giám đốc Nhân sự",
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên QS",
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế xây dựng",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên QS",
+      "education_level": "bachelor",
+      "field_of_study": "Dự toán",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên QS",
+      "education_level": "bachelor",
+      "field_of_study": "Qs",
+      "mandatory": true
+    },
+    {
+      "title": "(Nam) Tiếp Viên Tàu Hỏa Du Lịch Hạng Sang Laman Express",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Bán Hàng (Nữ)",
+      "education_level": "high_school",
+      "field_of_study": "None",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Thiết Kế (Designer)",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Lái xe B2",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Hành chính Nhân sự",
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị nhân lực",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Hành chính Nhân sự",
+      "education_level": "bachelor",
+      "field_of_study": "Quản lý lao động",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Thu Mua",
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Thu Mua",
+      "education_level": "associate",
+      "field_of_study": "Thương mại",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Thu Mua",
+      "education_level": "associate",
+      "field_of_study": "Ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "title": "Kỹ sư Xây dựng Dân dụng",
+      "education_level": "associate",
+      "field_of_study": "Xây dựng",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Văn phòng",
+      "education_level": "other",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Văn phòng",
+      "education_level": "other",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Văn phòng",
+      "education_level": "other",
+      "field_of_study": "Khách sạn",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Văn phòng",
+      "education_level": "other",
+      "field_of_study": "Du lịch",
+      "mandatory": true
+    },
+    {
+      "title": "Kiến Trúc Sư",
+      "education_level": "associate",
+      "field_of_study": "Kiến trúc",
+      "mandatory": true
+    },
+    {
+      "title": "Kiến Trúc Sư",
+      "education_level": "associate",
+      "field_of_study": "Xây dựng",
+      "mandatory": true
+    },
+    {
+      "title": "Quản lý Chi Nhánh (Nữ)",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Bán hàng và Tư vấn Nội thất",
+      "education_level": "other",
+      "field_of_study": "Ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Bán hàng và Tư vấn Nội thất",
+      "education_level": "other",
+      "field_of_study": "Nếu",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Bán hàng và Tư vấn Nội thất",
+      "education_level": "other",
+      "field_of_study": "Và nhiều ưu thế",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Kho",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Game Máy",
+      "education_level": "high_school",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh Phần Mềm Quản Lý Hộ Kinh Doanh – Thu Nhập Trung Bình 30 Triệu/Tháng",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Xưởng – Lao động Phổ thông",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Chia bài",
+      "education_level": "high_school",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kế toán",
+      "education_level": "bachelor",
+      "field_of_study": "Tài chính-kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Phòng Thiết Kế",
+      "education_level": "other",
+      "field_of_study": "Mỹ thuật ứng dụng",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Phòng Thiết Kế",
+      "education_level": "other",
+      "field_of_study": "Thiết kế đồ họa",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Digital Marketing",
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Digital Marketing",
+      "education_level": "other",
+      "field_of_study": "Truyền thông",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Digital Marketing",
+      "education_level": "other",
+      "field_of_study": "Thương mại điện tử",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh (Tour, Xe Du lịch)",
+      "education_level": "bachelor",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Kinh Doanh – Lương Cứng Từ 8 Triệu",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Sales Manager (Corporate)",
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Sales Manager (Corporate)",
+      "education_level": "associate",
+      "field_of_study": "Du lịch",
+      "mandatory": true
+    },
+    {
+      "title": "Kế toán Thuế",
+      "education_level": "bachelor",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Dọn dẹp – Vệ sinh (Housekeeping)",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Kỹ thuật",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Nhà Hàng",
+      "education_level": "high_school",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kỹ Thuật Ra File CNC Xưởng Sản Xuất Nội Thất",
+      "education_level": "other",
+      "field_of_study": "Kiến trúc",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kỹ Thuật Ra File CNC Xưởng Sản Xuất Nội Thất",
+      "education_level": "other",
+      "field_of_study": "Nội thất",
+      "mandatory": true
+    },
+    {
+      "title": "Thủ Kho (Nam)",
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Thủ Kho (Nam)",
+      "education_level": "associate",
+      "field_of_study": "Logistics",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Tổng Hợp",
+      "education_level": "other",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Dịch vụ Khách Hàng (15-20 triệu)",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Kế Toán",
+      "education_level": "bachelor",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Thực tập sinh Kế toán",
+      "education_level": "associate",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Cơ Khí (Sửa chữa Ô Tô)",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Tâm lý",
+      "education_level": "other",
+      "field_of_study": "Tâm lý học",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Lái Xe",
+      "education_level": "high_school",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Kế toán Mua hàng – Vật Tư",
+      "education_level": "other",
+      "field_of_study": "Kế toán doanh nghiệp",
+      "mandatory": true
+    },
+    {
+      "title": "Kế toán Mua hàng – Vật Tư",
+      "education_level": "other",
+      "field_of_study": "Kế toán tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Văn Phòng",
+      "education_level": "other",
+      "field_of_study": "Kinh tế quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Văn Phòng",
+      "education_level": "other",
+      "field_of_study": "Luật kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Văn Phòng",
+      "education_level": "other",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Văn Phòng",
+      "education_level": "other",
+      "field_of_study": "Ngân hàng",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Văn Phòng",
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Phục Vụ Nhà Hàng",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Sale Admin",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Thu ngân",
+      "education_level": "associate",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Thu ngân",
+      "education_level": "associate",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Thu ngân",
+      "education_level": "associate",
+      "field_of_study": "Ngân hàng",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Phát triển Nhượng Quyền Thương Hiệu (Franchise)",
+      "education_level": "other",
+      "field_of_study": "Dịch vụ",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Phát triển Nhượng Quyền Thương Hiệu (Franchise)",
+      "education_level": "other",
+      "field_of_study": "Bất động sản",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Phát triển Nhượng Quyền Thương Hiệu (Franchise)",
+      "education_level": "other",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Kế toán Nội bộ",
+      "education_level": "other",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Kế toán Nội bộ",
+      "education_level": "other",
+      "field_of_study": "Kiểm toán",
+      "mandatory": true
+    },
+    {
+      "title": "Kế toán Nội bộ",
+      "education_level": "other",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh Thiết Bị Điện",
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Kinh doanh Thiết Bị Điện",
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Kinh doanh Thiết Bị Điện",
+      "education_level": "associate",
+      "field_of_study": "Điện điện tử",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Kinh doanh Thiết Bị Điện",
+      "education_level": "associate",
+      "field_of_study": "Cơ điện",
+      "mandatory": false
+    },
+    {
+      "title": "Kế Toán Tổng Hợp",
+      "education_level": "other",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Kỹ thuật Điện",
+      "education_level": "associate",
+      "field_of_study": "Điện điện công nghiệp điện tử tự động hóa",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật Bảo Trì",
+      "education_level": "associate",
+      "field_of_study": "Điện",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật Bảo Trì",
+      "education_level": "associate",
+      "field_of_study": "Nước",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật Bảo Trì",
+      "education_level": "associate",
+      "field_of_study": "Điện lạnh",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Kho",
+      "education_level": "associate",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Kho",
+      "education_level": "associate",
+      "field_of_study": "Thống kê",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Content (7 – 10 triệu)",
+      "education_level": "bachelor",
+      "field_of_study": "None",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Thiết Kế – Chế Bản",
+      "education_level": "other",
+      "field_of_study": "Thiết kế",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Hành chính Nhân sự Tổng hợp",
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị nhân sự",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Hành chính Nhân sự Tổng hợp",
+      "education_level": "bachelor",
+      "field_of_study": "Hành chính",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Hành chính Nhân sự Tổng hợp",
+      "education_level": "bachelor",
+      "field_of_study": "Luật",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Hành chính Nhân sự Tổng hợp",
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh (Mảng Công Nghệ)",
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh (Mảng Công Nghệ)",
+      "education_level": "associate",
+      "field_of_study": "Cntt",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh (Mảng Công Nghệ)",
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Đào Tạo",
+      "education_level": "bachelor",
+      "field_of_study": "Tiếng anh",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Đào Tạo",
+      "education_level": "bachelor",
+      "field_of_study": "Nhân sự",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Đào Tạo",
+      "education_level": "bachelor",
+      "field_of_study": "Du lịch",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Đào Tạo",
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Đào Tạo",
+      "education_level": "bachelor",
+      "field_of_study": "Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Điều Phố Viên Hoạt Động Thể Thao – Giải Trí",
+      "education_level": "bachelor",
+      "field_of_study": "Tiếng anh",
+      "mandatory": true
+    },
+    {
+      "title": "Điều Phố Viên Hoạt Động Thể Thao – Giải Trí",
+      "education_level": "bachelor",
+      "field_of_study": "Nhân sự",
+      "mandatory": true
+    },
+    {
+      "title": "Điều Phố Viên Hoạt Động Thể Thao – Giải Trí",
+      "education_level": "bachelor",
+      "field_of_study": "Du lịch",
+      "mandatory": true
+    },
+    {
+      "title": "Điều Phố Viên Hoạt Động Thể Thao – Giải Trí",
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Điều Phố Viên Hoạt Động Thể Thao – Giải Trí",
+      "education_level": "bachelor",
+      "field_of_study": "Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật Nhiệt Điện lạnh",
+      "education_level": "other",
+      "field_of_study": "Nhiệt",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật Nhiệt Điện lạnh",
+      "education_level": "other",
+      "field_of_study": "Điện lạnh",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Tổng Hợp",
+      "education_level": "other",
+      "field_of_study": "Kế toán tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh Doanh",
+      "education_level": "other",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh Doanh",
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh Doanh",
+      "education_level": "other",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Vận hành Máy in Tem Nhãn Cuộn",
+      "education_level": "associate",
+      "field_of_study": "In ấn",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Vận hành Máy in Tem Nhãn Cuộn",
+      "education_level": "associate",
+      "field_of_study": "Cơ khí",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Vận hành Máy in Tem Nhãn Cuộn",
+      "education_level": "associate",
+      "field_of_study": "Kỹ thuật",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Phòng in Kỹ thuật số",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Trợ lý Phòng Sale & Marketing",
+      "education_level": "bachelor",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật Cơ Điện",
+      "education_level": "associate",
+      "field_of_study": "Điện điện tử",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật Cơ Điện",
+      "education_level": "associate",
+      "field_of_study": "Cơ điện",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật Cơ Điện",
+      "education_level": "associate",
+      "field_of_study": "Cơ khí",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật Cơ Điện",
+      "education_level": "associate",
+      "field_of_study": "Tự động hóa",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Hành Chính Nhân Sự",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Kiến trúc sư – Thiết Kế Nội Thất",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Viên",
+      "education_level": "associate",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Tư vấn Tuyển Sinh",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Trưởng",
+      "education_level": "bachelor",
+      "field_of_study": "Kế toán kiểm toán tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Sale Sản Phẩm Tóc Nối Việt Nam – Không Áp Doanh Số",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Bảo trì",
+      "education_level": "other",
+      "field_of_study": "Điện",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Bảo trì",
+      "education_level": "other",
+      "field_of_study": "Điện tử",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Bảo trì",
+      "education_level": "other",
+      "field_of_study": "Cơ khí",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Phòng Thiết Kế",
+      "education_level": "associate",
+      "field_of_study": "Thiết kế đồ họa",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Phòng Thiết Kế",
+      "education_level": "associate",
+      "field_of_study": "Mỹ thuật công nghiệp",
+      "mandatory": true
+    },
+    {
+      "title": "Quản lý Nhà hàng (Tiếng Trung)",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Phó Phòng Tổng hợp",
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị nhân sự",
+      "mandatory": true
+    },
+    {
+      "title": "Phó Phòng Tổng hợp",
+      "education_level": "bachelor",
+      "field_of_study": "Luật",
+      "mandatory": true
+    },
+    {
+      "title": "Phó Phòng Tổng hợp",
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Bán Hàng",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Content Creator",
+      "education_level": "bachelor",
+      "field_of_study": "Marketing",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân Viên Content Creator",
+      "education_level": "bachelor",
+      "field_of_study": "Truyền thông",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân Viên Content Creator",
+      "education_level": "bachelor",
+      "field_of_study": "Báo chí",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân Viên Content Creator",
+      "education_level": "bachelor",
+      "field_of_study": "Mỹ phẩm",
+      "mandatory": false
+    },
+    {
+      "title": "Kế Toán Tổng Hợp",
+      "education_level": "associate",
+      "field_of_study": "Kế toán tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh",
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Thiết kế Đồ họa (Designer)",
+      "education_level": "other",
+      "field_of_study": "Thiết kế đồ họa",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Trưởng",
+      "education_level": "bachelor",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Trưởng",
+      "education_level": "bachelor",
+      "field_of_study": "Kiểm toán",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Trưởng",
+      "education_level": "bachelor",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Kế toán Kho",
+      "education_level": "bachelor",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Kế toán Kho",
+      "education_level": "bachelor",
+      "field_of_study": "Kiểm toán",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Trực Tổng Đài MobiFone (Inbound)",
+      "education_level": "high_school",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Chăm sóc Khách hàng Tổng Đài MobiFone (Callout)",
+      "education_level": "high_school",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Trợ lý Kinh doanh",
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": false
+    },
+    {
+      "title": "Trợ lý Kinh doanh",
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": false
+    },
+    {
+      "title": "Trợ lý Kinh doanh",
+      "education_level": "associate",
+      "field_of_study": "Bất động sản",
+      "mandatory": false
+    },
+    {
+      "title": "Trưởng phòng Marketing",
+      "education_level": "bachelor",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Kinh doanh (Sản phẩm Toplist/ Báo chí/PR)",
+      "education_level": "bachelor",
+      "field_of_study": "Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Kinh doanh (Sản phẩm Toplist/ Báo chí/PR)",
+      "education_level": "bachelor",
+      "field_of_study": "Thương mại",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Kinh doanh (Sản phẩm Toplist/ Báo chí/PR)",
+      "education_level": "bachelor",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Kinh doanh (Sản phẩm Toplist/ Báo chí/PR)",
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Thu Mua",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Lễ tân khách sạn",
+      "education_level": "other",
+      "field_of_study": "Khách sạn",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Lễ tân khách sạn",
+      "education_level": "other",
+      "field_of_study": "Du lịch",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Content Creator",
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Content Creator",
+      "education_level": "other",
+      "field_of_study": "Truyền thông",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Content Creator",
+      "education_level": "other",
+      "field_of_study": "Báo chí",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kỹ thuật (Camera, Máy chấm công, Điện nhẹ)",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kỹ Thuật (Chuyên Gia Đánh Giá)",
+      "education_level": "bachelor",
+      "field_of_study": "Nông nghiệp",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kỹ Thuật (Chuyên Gia Đánh Giá)",
+      "education_level": "bachelor",
+      "field_of_study": "Chăn nuôi",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh – Sales (Lương upTo 15 triệu)",
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh – Sales (Lương upTo 15 triệu)",
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh – Sales (Lương upTo 15 triệu)",
+      "education_level": "associate",
+      "field_of_study": "Thương mại",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh – Sales (Lương upTo 15 triệu)",
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh (Mảng Nông Sản Sạch)",
+      "education_level": "associate",
+      "field_of_study": "Kinh doanh",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Kinh doanh (Mảng Nông Sản Sạch)",
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Bán hàng",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kế Toán Nội Bộ",
+      "education_level": "associate",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Pháp Lý",
+      "education_level": "bachelor",
+      "field_of_study": "Luật",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Pháp Lý",
+      "education_level": "bachelor",
+      "field_of_study": "Kỹ sư kinh tế xây dựng",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Pháp Lý",
+      "education_level": "bachelor",
+      "field_of_study": "Kỹ sư xây dựng",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Bảo Trì (Điện tử, Điện nước)",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Báo cáo Bảo Hành",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Tư Vấn Viên Online",
+      "education_level": "high_school",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Seller TikTok Shop US",
+      "education_level": "associate",
+      "field_of_study": "Kinh doanh",
+      "mandatory": false
+    },
+    {
+      "title": "Seller TikTok Shop US",
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": false
+    },
+    {
+      "title": "Seller TikTok Shop US",
+      "education_level": "associate",
+      "field_of_study": "Dệt may",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Phụ Tùng (Nam)",
+      "education_level": "associate",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Phụ Tùng (Nam)",
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Phụ Tùng (Nam)",
+      "education_level": "associate",
+      "field_of_study": "Thương mại",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Phụ Tùng (Nam)",
+      "education_level": "associate",
+      "field_of_study": "Kinh doanh dịch vụ",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Vận Hành Tòa Nhà (Nam)",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Marketing",
+      "education_level": "associate",
+      "field_of_study": "Thiết kế đồ họa",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Marketing",
+      "education_level": "associate",
+      "field_of_study": "Mỹ thuật",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Marketing",
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Marketing",
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Bảo Trì Điều Hòa (Điện Lạnh)",
+      "education_level": "other",
+      "field_of_study": "Điều hòa không khí",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Bảo Trì Điều Hòa (Điện Lạnh)",
+      "education_level": "other",
+      "field_of_study": "Điện công nghiệp",
+      "mandatory": true
+    },
+    {
+      "title": "Tổng Quản Lý SPA",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Bộ Phận Kinh doanh – Kế Hoạch",
+      "education_level": "other",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Bộ Phận Kinh doanh – Kế Hoạch",
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Bộ Phận Kinh doanh – Kế Hoạch",
+      "education_level": "other",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Bộ Phận Kinh doanh – Kế Hoạch",
+      "education_level": "other",
+      "field_of_study": "In ấn",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Đào Tạo",
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị khách sạn",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Đào Tạo",
+      "education_level": "bachelor",
+      "field_of_study": "Sư phạm",
+      "mandatory": true
+    },
+    {
+      "title": "Điều Dưỡng Nha Khoa",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Bác sĩ Răng Hàm Mặt",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Trợ lý Kế Toán Trưởng",
+      "education_level": "bachelor",
+      "field_of_study": "Tài chính kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật in Ấn (không cần kinh nghiệm)",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Kế toán Tổng hợp",
+      "education_level": "other",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Kho (8-10 triệu)",
+      "education_level": "associate",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Kho (8-10 triệu)",
+      "education_level": "associate",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh doanh Dầu Nhớt",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Phó Phòng Sale Marketing",
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Phó Phòng Sale Marketing",
+      "education_level": "bachelor",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Phó Phòng Sale Marketing",
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Tư Vấn Online & Offline",
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Tư Vấn Online & Offline",
+      "education_level": "bachelor",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Tư Vấn Online & Offline",
+      "education_level": "bachelor",
+      "field_of_study": "Thương mại",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Tư Vấn Online & Offline",
+      "education_level": "bachelor",
+      "field_of_study": "Ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "title": "Giám sát Kinh doanh",
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Giám sát Kinh doanh",
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Giám sát Buồng phòng",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Kỹ thuật viên Dán phim và Lắp đặt phụ kiện Ô tô",
+      "education_level": "associate",
+      "field_of_study": "Công nghệ ô tô",
+      "mandatory": true
+    },
+    {
+      "title": "Leader Team Đào Tạo",
+      "education_level": "bachelor",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Leader Team Đào Tạo",
+      "education_level": "bachelor",
+      "field_of_study": "Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Leader Team Đào Tạo",
+      "education_level": "bachelor",
+      "field_of_study": "Giáo dục",
+      "mandatory": true
+    },
+    {
+      "title": "Leader Team Đào Tạo",
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị nhân sự",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Nhân Sự",
+      "education_level": "associate",
+      "field_of_study": "Luật",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Nhân Sự",
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Phòng Dịch vụ Khách Hàng (40-50 triệu)",
+      "education_level": "bachelor",
+      "field_of_study": "Luật",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Phòng Dịch vụ Khách Hàng (40-50 triệu)",
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Phòng Dịch vụ Khách Hàng (40-50 triệu)",
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị kd",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Phòng Dịch vụ Khách Hàng (40-50 triệu)",
+      "education_level": "bachelor",
+      "field_of_study": "Bđs",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kế Toán",
+      "education_level": "other",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kế Toán",
+      "education_level": "other",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Quản Lý Thiết Kế Mảng Xây Dựng (18- 20 triệu)",
+      "education_level": "bachelor",
+      "field_of_study": "Kiến trúc",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Quản Lý Thiết Kế Mảng Xây Dựng (18- 20 triệu)",
+      "education_level": "bachelor",
+      "field_of_study": "Quy hoạch",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Quản Lý Thiết Kế Mảng Xây Dựng (18- 20 triệu)",
+      "education_level": "bachelor",
+      "field_of_study": "Nội thất",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Nhóm Digital Marketing (20 – 25 triệu)",
+      "education_level": "bachelor",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Nhóm Digital Marketing (20 – 25 triệu)",
+      "education_level": "bachelor",
+      "field_of_study": "Truyền thông",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Nhóm Digital Marketing (20 – 25 triệu)",
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh (Không yêu cầu kinh nghiệm)",
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh (Không yêu cầu kinh nghiệm)",
+      "education_level": "other",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh (Không yêu cầu kinh nghiệm)",
+      "education_level": "other",
+      "field_of_study": "Thương mại",
+      "mandatory": true
+    },
+    {
+      "title": "Quản lý Học viên kiêm Trợ lý Phòng Đào tạo",
+      "education_level": "other",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Quản lý Học viên kiêm Trợ lý Phòng Đào tạo",
+      "education_level": "other",
+      "field_of_study": "Giáo dục",
+      "mandatory": true
+    },
+    {
+      "title": "Quản lý Học viên kiêm Trợ lý Phòng Đào tạo",
+      "education_level": "other",
+      "field_of_study": "Ngôn ngữ",
+      "mandatory": true
+    },
+    {
+      "title": "Quản lý Học viên kiêm Trợ lý Phòng Đào tạo",
+      "education_level": "other",
+      "field_of_study": "Truyền thông",
+      "mandatory": true
+    },
+    {
+      "title": "Cửa Hàng Trưởng",
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": false
+    },
+    {
+      "title": "Cửa Hàng Trưởng",
+      "education_level": "associate",
+      "field_of_study": "Quản trị",
+      "mandatory": false
+    },
+    {
+      "title": "Cửa Hàng Trưởng",
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": false
+    },
+    {
+      "title": "Chuyên viên Hoạch định Tài chính",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Kế Toán Nội Bộ",
+      "education_level": "associate",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kế Toán Nội Bộ",
+      "education_level": "associate",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh",
+      "education_level": "associate",
+      "field_of_study": "Kinh doanh",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Kinh doanh",
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Hành chính – Hỗ trợ Kinh doanh",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên SEO- Digital Marketing",
+      "education_level": "other",
+      "field_of_study": "Truyền thông",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên SEO- Digital Marketing",
+      "education_level": "other",
+      "field_of_study": "Báo chí",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên SEO- Digital Marketing",
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên SEO- Digital Marketing",
+      "education_level": "other",
+      "field_of_study": "Pr",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên QS (Quản lý Dự Án)",
+      "education_level": "bachelor",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật",
+      "education_level": "other",
+      "field_of_study": "Cntt",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật",
+      "education_level": "other",
+      "field_of_study": "Tin học",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật",
+      "education_level": "other",
+      "field_of_study": "Điện",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật",
+      "education_level": "other",
+      "field_of_study": "Máy tính",
+      "mandatory": true
+    },
+    {
+      "title": "Quản lý Khách sạn",
+      "education_level": "associate",
+      "field_of_study": "Khách sạn",
+      "mandatory": true
+    },
+    {
+      "title": "Quản lý Khách sạn",
+      "education_level": "associate",
+      "field_of_study": "Nhà hàng",
+      "mandatory": true
+    },
+    {
+      "title": "Quản lý Khách sạn",
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Thư Ký Kinh Doanh",
+      "education_level": "other",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Thư Ký Kinh Doanh",
+      "education_level": "other",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Thư Ký Kinh Doanh",
+      "education_level": "other",
+      "field_of_study": "Bđs",
+      "mandatory": true
+    },
+    {
+      "title": "Thư Ký Kinh Doanh",
+      "education_level": "other",
+      "field_of_study": "Ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Marketing",
+      "education_level": "bachelor",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Buồng phòng",
+      "education_level": "high_school",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Buồng phòng",
+      "education_level": "other",
+      "field_of_study": "Khách sạn",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Buồng phòng",
+      "education_level": "other",
+      "field_of_study": "Du lịch",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Buồng phòng",
+      "education_level": "other",
+      "field_of_study": "Nghiệp vụ buồng phòng",
+      "mandatory": true
+    },
+    {
+      "title": "Kỹ sư Bán Hàng",
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Kỹ sư Bán Hàng",
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Kỹ sư Bán Hàng",
+      "education_level": "associate",
+      "field_of_study": "Tương tự",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Kinh doanh Dự Án",
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Kinh doanh Dự Án",
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Kinh doanh Dự Án",
+      "education_level": "associate",
+      "field_of_study": "Tương tự",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Tư vấn Bán hàng",
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Tư vấn Bán hàng",
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Tư vấn Bán hàng",
+      "education_level": "associate",
+      "field_of_study": "Tương tự",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh tại Đà Nẵng (chính sách Hấp dẫn)",
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh tại Đà Nẵng (chính sách Hấp dẫn)",
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh tại Đà Nẵng (chính sách Hấp dẫn)",
+      "education_level": "associate",
+      "field_of_study": "Tương tự",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Digital Marketing",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Thiết Kế (Designer)",
+      "education_level": "associate",
+      "field_of_study": "Thiết kế đồ họa",
+      "mandatory": true
+    },
+    {
+      "title": "Giám sát Kinh doanh Khu vực",
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Giám sát Kinh doanh Khu vực",
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Giám sát Kinh doanh Khu vực",
+      "education_level": "associate",
+      "field_of_study": "Tương tự",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Chăm sóc Khách hàng",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Quản lý Fanpage",
+      "education_level": "other",
+      "field_of_study": "Truyền thông",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Quản lý Fanpage",
+      "education_level": "other",
+      "field_of_study": "Báo chí",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kho",
+      "education_level": "high_school",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Giám Sát Thi công Đá Granite/Marble",
+      "education_level": "other",
+      "field_of_study": "Xây dựng",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Giám Sát Thi công Đá Granite/Marble",
+      "education_level": "other",
+      "field_of_study": "Xây dựng",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ Thuật Sửa chữa Máy tính Laptop",
+      "education_level": "associate",
+      "field_of_study": "Cntt",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ Thuật Sửa chữa Máy tính Laptop",
+      "education_level": "associate",
+      "field_of_study": "Công nghệ",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ Thuật Sửa chữa Máy tính Laptop",
+      "education_level": "associate",
+      "field_of_study": "Quản trị mạng",
+      "mandatory": true
+    },
+    {
+      "title": "Giám đốc Bộ phận Quầy Bar 2",
+      "education_level": "bachelor",
+      "field_of_study": "Nhà hàng",
+      "mandatory": true
+    },
+    {
+      "title": "Giám đốc Bộ phận Quầy Bar 2",
+      "education_level": "bachelor",
+      "field_of_study": "Khách sạn",
+      "mandatory": true
+    },
+    {
+      "title": "Giám đốc Bộ phận Quầy Bar 2",
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị",
+      "mandatory": true
+    },
+    {
+      "title": "Kỹ sư Điện",
+      "education_level": "associate",
+      "field_of_study": "Điện",
+      "mandatory": true
+    },
+    {
+      "title": "Kỹ sư Điện",
+      "education_level": "associate",
+      "field_of_study": "Tự động hóa công nghiệp",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh Phòng, Tour",
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh Phòng, Tour",
+      "education_level": "bachelor",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Quản lý Kinh doanh Vùng",
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Quản lý Kinh doanh Vùng",
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Quản lý Kinh doanh Vùng",
+      "education_level": "associate",
+      "field_of_study": "Tương tự",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Quản Trị Phần Mềm",
+      "education_level": "other",
+      "field_of_study": "Công nghệ thông tin",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Quản Trị Phần Mềm",
+      "education_level": "other",
+      "field_of_study": "Hệ thống thông tin quản lý",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Hậu cần Kinh doanh",
+      "education_level": "high_school",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh doanh Tại Văn Phòng",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh – Nam (9-20 triệu)",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Trưởng",
+      "education_level": "bachelor",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Trưởng",
+      "education_level": "bachelor",
+      "field_of_study": "Kiểm toán",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Trưởng",
+      "education_level": "bachelor",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Tư Vấn Khoản Vay ÔTô Trả góp",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Tư Vấn Khoản Vay ÔTô Trả góp",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Đào tạo và Phát triển",
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị nguồn nhân lực",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Đào tạo và Phát triển",
+      "education_level": "bachelor",
+      "field_of_study": "Văn hóa",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Đào tạo và Phát triển",
+      "education_level": "bachelor",
+      "field_of_study": "Truyền thông",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Đào tạo và Phát triển",
+      "education_level": "bachelor",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Marketing",
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Marketing",
+      "education_level": "other",
+      "field_of_study": "Quảng cáo mạng internet và mạng xã hội",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Pha chế",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Pha chế",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kế toán Bán hàng",
+      "education_level": "other",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kế toán Bán hàng",
+      "education_level": "other",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kế toán Bán hàng",
+      "education_level": "other",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh OTAs",
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh OTAs",
+      "education_level": "bachelor",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh",
+      "education_level": "bachelor",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Kinh doanh Căn Hộ",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Ecommerce Marketing",
+      "education_level": "bachelor",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Ecommerce Marketing",
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Ecommerce Marketing",
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kế Toán",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Cửa hàng Trưởng (PNJ Đà Nẵng)",
+      "education_level": "other",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Cửa hàng Trưởng (PNJ Đà Nẵng)",
+      "education_level": "other",
+      "field_of_study": "Quản lý",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Phát triển Thị trường B2B",
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Phát triển Thị trường B2B",
+      "education_level": "bachelor",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Tư vấn tại Văn Phòng",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Cố Vấn Dịch Vụ",
+      "education_level": "associate",
+      "field_of_study": "Cơ khí động lực",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Cố Vấn Dịch Vụ",
+      "education_level": "associate",
+      "field_of_study": "Công nghệ kỹ thuật ô tô",
+      "mandatory": true
+    },
+    {
+      "title": "Kế toán Tổng Hợp",
+      "education_level": "associate",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng nhóm kinh doanh (Sales Leader)",
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng nhóm kinh doanh (Sales Leader)",
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng nhóm kinh doanh (Sales Leader)",
+      "education_level": "associate",
+      "field_of_study": "Tương tự",
+      "mandatory": true
+    },
+    {
+      "title": "Kỹ Sư Điện",
+      "education_level": "bachelor",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh (Đồng Phục)",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Sale Online / Sale Admin",
+      "education_level": "other",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên KCS (Nam)",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên KCS (Nam)",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Kỹ sư Đấu thầu Cơ Điện (M&E)",
+      "education_level": "bachelor",
+      "field_of_study": "Cơ điện",
+      "mandatory": true
+    },
+    {
+      "title": "Kỹ sư Đấu thầu Cơ Điện (M&E)",
+      "education_level": "bachelor",
+      "field_of_study": "Điện",
+      "mandatory": true
+    },
+    {
+      "title": "Kỹ sư Đấu thầu Cơ Điện (M&E)",
+      "education_level": "bachelor",
+      "field_of_study": "Nhiệt lạnh",
+      "mandatory": true
+    },
+    {
+      "title": "Chỉ huy trưởng Công trình (M&E)",
+      "education_level": "associate",
+      "field_of_study": "Cơ điện",
+      "mandatory": true
+    },
+    {
+      "title": "Chỉ huy trưởng Công trình (M&E)",
+      "education_level": "associate",
+      "field_of_study": "Điện",
+      "mandatory": true
+    },
+    {
+      "title": "Chỉ huy trưởng Công trình (M&E)",
+      "education_level": "associate",
+      "field_of_study": "Nhiệt lạnh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kế Toán Bán Hàng",
+      "education_level": "associate",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Content Creator",
+      "education_level": "other",
+      "field_of_study": "Truyền thông",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Content Creator",
+      "education_level": "other",
+      "field_of_study": "Báo chí",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Pháp Lý",
+      "education_level": "bachelor",
+      "field_of_study": "Hành nghề luật sư",
+      "mandatory": false
+    },
+    {
+      "title": "Giáo Viên Tiếng Nhật",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Công Trình",
+      "education_level": "associate",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Công Trình",
+      "education_level": "associate",
+      "field_of_study": "Kiểm toán",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh (mảng Xây dựng – Nội Thất)",
+      "education_level": "other",
+      "field_of_study": "Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh (mảng Xây dựng – Nội Thất)",
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh (mảng Xây dựng – Nội Thất)",
+      "education_level": "other",
+      "field_of_study": "Kiến trúc",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh (mảng Xây dựng – Nội Thất)",
+      "education_level": "other",
+      "field_of_study": "Nội thất",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh doanh (LCB 8 triệu + HH khủng)",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Kế toán Viên",
+      "education_level": "associate",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Kế toán Viên",
+      "education_level": "associate",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Kế toán Viên",
+      "education_level": "associate",
+      "field_of_study": "Kiểm toán",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Tổng Hợp",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Tư vấn Bán hàng (Xe ô tô Hyundai)",
+      "education_level": "other",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Tư vấn Bán hàng (Xe ô tô Hyundai)",
+      "education_level": "other",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Tư vấn Bán hàng (Xe ô tô Hyundai)",
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Tư vấn Bán hàng (Xe ô tô Hyundai)",
+      "education_level": "other",
+      "field_of_study": "Ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Tư vấn Bán hàng (Xe ô tô Hyundai)",
+      "education_level": "other",
+      "field_of_study": "Cơ khí ô tô",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Kinh Doanh Sales & Marketing",
+      "education_level": "bachelor",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Kinh Doanh Sales & Marketing",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Phụ Tá Nha khoa",
+      "education_level": "associate",
+      "field_of_study": "Điều dưỡng đa khoa",
+      "mandatory": true
+    },
+    {
+      "title": "Phụ Tá Nha khoa",
+      "education_level": "associate",
+      "field_of_study": "Điều dưỡng răng hàm mặt",
+      "mandatory": true
+    },
+    {
+      "title": "Bác sĩ implant",
+      "education_level": "other",
+      "field_of_study": "Răng hàm mặt",
+      "mandatory": true
+    },
+    {
+      "title": "Bác sĩ implant",
+      "education_level": "other",
+      "field_of_study": "Răng hàm mặt",
+      "mandatory": true
+    },
+    {
+      "title": "Bác Sĩ Thẩm Mỹ",
+      "education_level": "other",
+      "field_of_study": "Răng hàm mặt",
+      "mandatory": true
+    },
+    {
+      "title": "Bác Sĩ Thẩm Mỹ",
+      "education_level": "other",
+      "field_of_study": "Răng hàm mặt",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kế Toán",
+      "education_level": "associate",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Phòng Kinh Doanh",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Media 2D, Animation (12 – 20 triệu)",
+      "education_level": "other",
+      "field_of_study": "Thiết kế đồ họa",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Media 2D, Animation (12 – 20 triệu)",
+      "education_level": "other",
+      "field_of_study": "Multimedia",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Media 2D, Animation (12 – 20 triệu)",
+      "education_level": "other",
+      "field_of_study": "Animation",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Khai thác Giá trị Gia Tăng (Xe Ôtô)",
+      "education_level": "other",
+      "field_of_study": "Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Khai thác Giá trị Gia Tăng (Xe Ôtô)",
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Khai thác Giá trị Gia Tăng (Xe Ôtô)",
+      "education_level": "other",
+      "field_of_study": "Dịch vụ ô tô",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Khai thác Giá trị Gia Tăng (Xe Ôtô)",
+      "education_level": "other",
+      "field_of_study": "Nghề quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Khai thác Giá trị Gia Tăng (Xe Ôtô)",
+      "education_level": "other",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Khai thác Giá trị Gia Tăng (Xe Ôtô)",
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Khai thác Giá trị Gia Tăng (Xe Ôtô)",
+      "education_level": "other",
+      "field_of_study": "Ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Khai thác Giá trị Gia Tăng (Xe Ôtô)",
+      "education_level": "other",
+      "field_of_study": "Cơ khí ô tô",
+      "mandatory": true
+    },
+    {
+      "title": "Seller TikTok US-UK (Không yêu cầu kinh nghiệm)",
+      "education_level": "other",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Seller TikTok US-UK (Không yêu cầu kinh nghiệm)",
+      "education_level": "other",
+      "field_of_study": "Ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kế Toán Kiểm Soát Doanh Thu Cửa Hàng",
+      "education_level": "other",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kế Toán Kiểm Soát Doanh Thu Cửa Hàng",
+      "education_level": "other",
+      "field_of_study": "Kiểm toán",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kế Toán Kiểm Soát Doanh Thu Cửa Hàng",
+      "education_level": "other",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Quản lý Vận Tải – Logistics",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kế Toán Thuế",
+      "education_level": "other",
+      "field_of_study": "Kế toán tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Phòng Công Nghệ Thông Tin (IT)",
+      "education_level": "bachelor",
+      "field_of_study": "Công nghệ thông tin",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Phòng Kinh Doanh",
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Phòng Kinh Doanh",
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Phòng Mua Hàng",
+      "education_level": "bachelor",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Tư Vấn",
+      "education_level": "high_school",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Giám đốc Tài Chính",
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Giám Đốc Điều Hành",
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Tư vấn Tuyển sinh (Ngũ Hành Sơn)",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Giám đốc Kinh doanh",
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Giám đốc Kinh doanh",
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Kiến Trúc Sư",
+      "education_level": "other",
+      "field_of_study": "Thiết kế kiến trúc nội thất",
+      "mandatory": true
+    },
+    {
+      "title": "Trợ lý Tư vấn Du học – CSKH",
+      "education_level": "bachelor",
+      "field_of_study": "Ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "title": "Trợ lý Tư vấn Du học – CSKH",
+      "education_level": "bachelor",
+      "field_of_study": "Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Trợ lý Tư vấn Du học – CSKH",
+      "education_level": "bachelor",
+      "field_of_study": "Giáo dục",
+      "mandatory": true
+    },
+    {
+      "title": "Trợ lý Tư vấn Du học – CSKH",
+      "education_level": "bachelor",
+      "field_of_study": "Tâm lý",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên IT",
+      "education_level": "bachelor",
+      "field_of_study": "An toàn thông tin",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên IT",
+      "education_level": "bachelor",
+      "field_of_study": "Công nghệ thông tin",
+      "mandatory": true
+    },
+    {
+      "title": "Phó Tổng GĐ Phụ trách Hành chính – Nhân sự",
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Chủ Quản Nhân Sự",
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị nhân lực",
+      "mandatory": true
+    },
+    {
+      "title": "Chủ Quản Nhân Sự",
+      "education_level": "bachelor",
+      "field_of_study": "Luật",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Nhóm Tuyển Dụng (Lương 16-20 Triệu)",
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế lao động",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Nhóm Tuyển Dụng (Lương 16-20 Triệu)",
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị nhân sự",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Nhóm Tuyển Dụng (Lương 16-20 Triệu)",
+      "education_level": "bachelor",
+      "field_of_study": "Luật",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Nhóm Tuyển Dụng (Lương 16-20 Triệu)",
+      "education_level": "bachelor",
+      "field_of_study": "Qtkd",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Kinh doanh Chuyển Phát Nhanh",
+      "education_level": "associate",
+      "field_of_study": "Qtkd",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Kinh doanh Chuyển Phát Nhanh",
+      "education_level": "associate",
+      "field_of_study": "Logistics",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Kinh doanh Chuyển Phát Nhanh",
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Tư Vấn Bán Hàng",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh ngành hàng SmartHome (7-10 triệu)",
+      "education_level": "associate",
+      "field_of_study": "Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh ngành hàng SmartHome (7-10 triệu)",
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh ngành hàng SmartHome (7-10 triệu)",
+      "education_level": "associate",
+      "field_of_study": "Điện điện tử",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật Thang Máy – Được Đào Tạo",
+      "education_level": "other",
+      "field_of_study": "Điện",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật Thang Máy – Được Đào Tạo",
+      "education_level": "other",
+      "field_of_study": "Cơ điện tử",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật Thang Máy – Được Đào Tạo",
+      "education_level": "other",
+      "field_of_study": "Điện tự động",
+      "mandatory": true
+    },
+    {
+      "title": "Kỹ sư Cầu Đường",
+      "education_level": "other",
+      "field_of_study": "Cầu đường",
+      "mandatory": false
+    },
+    {
+      "title": "Kỹ sư Cầu Đường",
+      "education_level": "other",
+      "field_of_study": "Cấp thoát nước",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Thị Trường (Nam)",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Senior Designer",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Senior Designer",
+      "education_level": "bachelor",
+      "field_of_study": "Thiết kế",
+      "mandatory": true
+    },
+    {
+      "title": "Senior Designer",
+      "education_level": "bachelor",
+      "field_of_study": "Đồ hoạ",
+      "mandatory": true
+    },
+    {
+      "title": "Junior Designer",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Junior Designer",
+      "education_level": "bachelor",
+      "field_of_study": "Thiết kế",
+      "mandatory": true
+    },
+    {
+      "title": "Junior Designer",
+      "education_level": "bachelor",
+      "field_of_study": "Đồ hoạ",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Cao Cấp Kinh Doanh Vàng",
+      "education_level": "bachelor",
+      "field_of_study": "Qtkd",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Cao Cấp Kinh Doanh Vàng",
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Cao Cấp Kinh Doanh Vàng",
+      "education_level": "bachelor",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Marketing",
+      "education_level": "other",
+      "field_of_study": "Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Marketing",
+      "education_level": "other",
+      "field_of_study": "Thương mại điện tử",
+      "mandatory": true
+    },
+    {
+      "title": "Quản lý Cung Ứng",
+      "education_level": "bachelor",
+      "field_of_study": "Qtkd",
+      "mandatory": true
+    },
+    {
+      "title": "Quản lý Cung Ứng",
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Quản lý Cung Ứng",
+      "education_level": "bachelor",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Quản lý Cung Ứng",
+      "education_level": "bachelor",
+      "field_of_study": "Xuất nhập khẩu",
+      "mandatory": true
+    },
+    {
+      "title": "Quản lý Cung Ứng",
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị chuỗi cung ứng",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Dịch Vụ làm đẹp",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên QA (không yêu cầu kinh nghiệm)",
+      "education_level": "associate",
+      "field_of_study": "Cơ khí",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên QA (không yêu cầu kinh nghiệm)",
+      "education_level": "associate",
+      "field_of_study": "Kỹ thuật",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên QA (không yêu cầu kinh nghiệm)",
+      "education_level": "associate",
+      "field_of_study": "Công nghệ",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Bếp",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Pha Chế",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Phòng Kỹ thuật",
+      "education_level": "bachelor",
+      "field_of_study": "Điện",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Phòng Kỹ thuật",
+      "education_level": "bachelor",
+      "field_of_study": "Điện dân dụng",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Phòng Kỹ thuật",
+      "education_level": "bachelor",
+      "field_of_study": "Công nghệ thông tin",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật mảng Điện – Điện tử – Smart Home",
+      "education_level": "associate",
+      "field_of_study": "Kỹ thuật điện",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật mảng Điện – Điện tử – Smart Home",
+      "education_level": "associate",
+      "field_of_study": "Điện tử",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật mảng Điện – Điện tử – Smart Home",
+      "education_level": "associate",
+      "field_of_study": "Điện công nghiệp",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật mảng Điện – Điện tử – Smart Home",
+      "education_level": "associate",
+      "field_of_study": "Điều khiển tự động",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên An Ninh",
+      "education_level": "high_school",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Giám sát Tạp Vụ",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Bán hàng tại Văn phòng",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Content Marketing (9-12 triệu)",
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Content Marketing (9-12 triệu)",
+      "education_level": "associate",
+      "field_of_study": "Truyền thông",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Content Marketing (9-12 triệu)",
+      "education_level": "associate",
+      "field_of_study": "Báo chí",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Trưởng",
+      "education_level": "associate",
+      "field_of_study": "Tài chính kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Trưởng",
+      "education_level": "associate",
+      "field_of_study": "Kiểm toán",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Giao nhận Hàng",
+      "education_level": "high_school",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kế toán Tổng hợp",
+      "education_level": "associate",
+      "field_of_study": "Tài chính kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kế toán Tổng hợp",
+      "education_level": "associate",
+      "field_of_study": "Kiểm toán",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật",
+      "education_level": "other",
+      "field_of_study": "Cơ khí",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật",
+      "education_level": "other",
+      "field_of_study": "Chế tạo máy",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật",
+      "education_level": "other",
+      "field_of_study": "Cơ khí tự động hóa",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật",
+      "education_level": "other",
+      "field_of_study": "Cơ điện tử",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Quay Dựng Video & Vận hành Livestream",
+      "education_level": "associate",
+      "field_of_study": "Truyền thông đa phương tiện",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Quay Dựng Video & Vận hành Livestream",
+      "education_level": "associate",
+      "field_of_study": "Quay dựng",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Quay Dựng Video & Vận hành Livestream",
+      "education_level": "associate",
+      "field_of_study": "Media",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Quay Dựng Video & Vận hành Livestream",
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Telesale",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Tư vấn & Chăm sóc Khách hàng",
+      "education_level": "high_school",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Giáo Viên Mầm Non",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh Sale Logistics",
+      "education_level": "associate",
+      "field_of_study": "Ngoại thương",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh Sale Logistics",
+      "education_level": "associate",
+      "field_of_study": "Thương mại",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh Sale Logistics",
+      "education_level": "associate",
+      "field_of_study": "Xnk",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh Sale Logistics",
+      "education_level": "associate",
+      "field_of_study": "Logistics",
+      "mandatory": true
+    },
+    {
+      "title": "Trợ giảng Mầm non Montessori",
+      "education_level": "associate",
+      "field_of_study": "Sư phạm tiếng anh",
+      "mandatory": true
+    },
+    {
+      "title": "Trợ giảng Mầm non Montessori",
+      "education_level": "associate",
+      "field_of_study": "Ngoại ngữ tiếng anh",
+      "mandatory": true
+    },
+    {
+      "title": "Trợ giảng Mầm non Montessori",
+      "education_level": "associate",
+      "field_of_study": "Xã hội nhân văn",
+      "mandatory": true
+    },
+    {
+      "title": "Trợ giảng Mầm non Montessori",
+      "education_level": "associate",
+      "field_of_study": "Tâm lý học ứng viên không có bằng cấp phù hợp nhưng đạt các",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh",
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "title": "Kỹ sư Kết Cấu Thép",
+      "education_level": "bachelor",
+      "field_of_study": "Xây dựng",
+      "mandatory": true
+    },
+    {
+      "title": "Kỹ sư Kết Cấu Thép",
+      "education_level": "bachelor",
+      "field_of_study": "Cơ khí xây dựng",
+      "mandatory": true
+    },
+    {
+      "title": "Sales Executive – mảng khách lẻ – B2C",
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Sales Executive – mảng khách lẻ – B2C",
+      "education_level": "associate",
+      "field_of_study": "Tài chính kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Sales Executive – mảng khách lẻ – B2C",
+      "education_level": "associate",
+      "field_of_study": "Ngân hàng",
+      "mandatory": true
+    },
+    {
+      "title": "Sales Executive – mảng khách lẻ – B2C",
+      "education_level": "associate",
+      "field_of_study": "Luật",
+      "mandatory": true
+    },
+    {
+      "title": "Sales Executive – mảng khách lẻ – B2C",
+      "education_level": "associate",
+      "field_of_study": "Thương mại",
+      "mandatory": true
+    },
+    {
+      "title": "Sales Executive – mảng khách lẻ – B2C",
+      "education_level": "associate",
+      "field_of_study": "Du lịch",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Tư vấn Tuyển sinh (Liên Chiểu)",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Premier Life Consultant (Chuyên Viên Tư Vấn Khách Hàng Cấp Cao)",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Premier Life Consultant (Chuyên Viên Tư Vấn Khách Hàng Cấp Cao)",
+      "education_level": "other",
+      "field_of_study": "Tài chính",
+      "mandatory": false
+    },
+    {
+      "title": "Premier Life Consultant (Chuyên Viên Tư Vấn Khách Hàng Cấp Cao)",
+      "education_level": "other",
+      "field_of_study": "Bảo hiểm",
+      "mandatory": false
+    },
+    {
+      "title": "Premier Life Consultant (Chuyên Viên Tư Vấn Khách Hàng Cấp Cao)",
+      "education_level": "other",
+      "field_of_study": "Ngân hàng",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Bellman kiêm An Ninh",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Sales Executive – Mảng Mice",
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Sales Executive – Mảng Mice",
+      "education_level": "associate",
+      "field_of_study": "Tài chính kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Sales Executive – Mảng Mice",
+      "education_level": "associate",
+      "field_of_study": "Ngân hàng",
+      "mandatory": true
+    },
+    {
+      "title": "Sales Executive – Mảng Mice",
+      "education_level": "associate",
+      "field_of_study": "Luật",
+      "mandatory": true
+    },
+    {
+      "title": "Sales Executive – Mảng Mice",
+      "education_level": "associate",
+      "field_of_study": "Thương mại",
+      "mandatory": true
+    },
+    {
+      "title": "Sales Executive – Mảng Mice",
+      "education_level": "associate",
+      "field_of_study": "Du lịch",
+      "mandatory": true
+    },
+    {
+      "title": "Thực tập sinh Marketing",
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Thực tập sinh Marketing",
+      "education_level": "other",
+      "field_of_study": "Du lịch",
+      "mandatory": true
+    },
+    {
+      "title": "Thực tập sinh Marketing",
+      "education_level": "other",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Thực tập sinh Marketing",
+      "education_level": "other",
+      "field_of_study": "Truyền thông",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên QC – Kiểm soát Nội bộ (Fulltime)",
+      "education_level": "associate",
+      "field_of_study": "Luật",
+      "mandatory": false
+    },
+    {
+      "title": "Chuyên Viên QC – Kiểm soát Nội bộ (Fulltime)",
+      "education_level": "associate",
+      "field_of_study": "Nhân sự",
+      "mandatory": false
+    },
+    {
+      "title": "Chuyên Viên QC – Kiểm soát Nội bộ (Fulltime)",
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": false
+    },
+    {
+      "title": "Kế toán Học việc (Có hỗ trợ lương)",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh (Lĩnh vực IT, Máy vi tính)",
+      "education_level": "other",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh (Lĩnh vực IT, Máy vi tính)",
+      "education_level": "other",
+      "field_of_study": "Bán hàng",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh (Lĩnh vực IT, Máy vi tính)",
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh (Lĩnh vực IT, Máy vi tính)",
+      "education_level": "other",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh (Lĩnh vực IT, Máy vi tính)",
+      "education_level": "other",
+      "field_of_study": "Công nghệ thông tin",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Data Content & Listing",
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Data Content & Listing",
+      "education_level": "associate",
+      "field_of_study": "Ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng phòng Đầu tư – Phát Triển",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh",
+      "education_level": "associate",
+      "field_of_study": "Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh",
+      "education_level": "associate",
+      "field_of_study": "Xã hội",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh",
+      "education_level": "associate",
+      "field_of_study": "Ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh",
+      "education_level": "associate",
+      "field_of_study": "Giáo dục",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh",
+      "education_level": "associate",
+      "field_of_study": "Du lịch",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Bán hàng tại Showroom",
+      "education_level": "other",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Bán hàng tại Showroom",
+      "education_level": "other",
+      "field_of_study": "Bán hàng",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Bán hàng tại Showroom",
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Bán hàng tại Showroom",
+      "education_level": "other",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Bán hàng tại Showroom",
+      "education_level": "other",
+      "field_of_study": "Công nghệ thông tin",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng nhóm Kinh doanh",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Support For Content Creator",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Support For Seller",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Bảo Trì Điện",
+      "education_level": "other",
+      "field_of_study": "Điện",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Bảo Trì Điện",
+      "education_level": "other",
+      "field_of_study": "Điện tử",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Bảo Trì Điện",
+      "education_level": "other",
+      "field_of_study": "Cơ khí",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Bảo Trì Điện",
+      "education_level": "other",
+      "field_of_study": "Công nghệ thông tin",
+      "mandatory": true
+    },
+    {
+      "title": "Điều Dưỡng Viên",
+      "education_level": "associate",
+      "field_of_study": "Điều dưỡng",
+      "mandatory": true
+    },
+    {
+      "title": "Thí nghiệm viên Xây dựng",
+      "education_level": "other",
+      "field_of_study": "Xây dựng",
+      "mandatory": true
+    },
+    {
+      "title": "Kỹ sư Điện",
+      "education_level": "bachelor",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Thiết Kế Nội Thất (10-15 triệu)",
+      "education_level": "other",
+      "field_of_study": "Kiến trúc",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Thiết Kế Nội Thất (10-15 triệu)",
+      "education_level": "other",
+      "field_of_study": "Thiết kế nội thất",
+      "mandatory": false
+    },
+    {
+      "title": "Điều dưỡng Nha khoa",
+      "education_level": "other",
+      "field_of_study": "Điều dưỡng nha khoa",
+      "mandatory": true
+    },
+    {
+      "title": "Kỹ thuật viên Phục hồi Chức năng",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Kỹ thuật viên | Y Sĩ Y Học Cổ Truyền",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Kỹ thuật viên Xét Nghiệm",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Kỹ sư Kinh tế Xây dựng (QS)",
+      "education_level": "other",
+      "field_of_study": "Kinh tế xây dựng",
+      "mandatory": true
+    },
+    {
+      "title": "Kỹ sư Giám sát Công trình",
+      "education_level": "associate",
+      "field_of_study": "Kỹ sư xây dựng dân dụng",
+      "mandatory": true
+    },
+    {
+      "title": "Kiến trúc sư Nội Thất",
+      "education_level": "associate",
+      "field_of_study": "Kiến trúc",
+      "mandatory": true
+    },
+    {
+      "title": "Kiến trúc sư Nội Thất",
+      "education_level": "associate",
+      "field_of_study": "Thiết kế nội thất",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Nghiên Cứu và Phát Triển (R&D)",
+      "education_level": "associate",
+      "field_of_study": "Cơ khí",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Nghiên Cứu và Phát Triển (R&D)",
+      "education_level": "associate",
+      "field_of_study": "Cơ điện tử",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Nghiên Cứu và Phát Triển (R&D)",
+      "education_level": "associate",
+      "field_of_study": "Công nghệ kỹ thuật ô tô",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Nghiên Cứu và Phát Triển (R&D)",
+      "education_level": "associate",
+      "field_of_study": "Kỹ thuật vật liệu",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Tư Vấn Dịch Vụ Truyền Hình, Internet FPT",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Lễ tân",
+      "education_level": "other",
+      "field_of_study": "Khách sạn",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Lễ tân",
+      "education_level": "other",
+      "field_of_study": "Quản trị",
+      "mandatory": true
+    },
+    {
+      "title": "Kiến trúc sư Binh bố Công năng và Ngoại thất (SBS House)",
+      "education_level": "associate",
+      "field_of_study": "Kiến trúc",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Lễ tân",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Tạp Vụ (Nam)",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Kỹ thuật Viên SPA",
+      "education_level": "high_school",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Giám sát Bếp",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng nhóm Bếp",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Tư Vấn Viên Phòng Tập Pilates",
+      "education_level": "high_school",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Phó Phòng Kinh Doanh",
+      "education_level": "bachelor",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Kỹ sư Xây dựng Dân dụng",
+      "education_level": "associate",
+      "field_of_study": "Xây dựng",
+      "mandatory": true
+    },
+    {
+      "title": "Tư Vấn Viên Khách Hàng (Sale Fitness)",
+      "education_level": "high_school",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Huấn Luyện Viên PT (GYM, KICK BOXING)",
+      "education_level": "high_school",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Trưởng | Kế toán Tổng hợp",
+      "education_level": "other",
+      "field_of_study": "Tài chính kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Kế Toán Trưởng | Kế toán Tổng hợp",
+      "education_level": "other",
+      "field_of_study": "Kiểm toán",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Seller POD (7-10 triệu)",
+      "education_level": "other",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Seller POD (7-10 triệu)",
+      "education_level": "other",
+      "field_of_study": "Bách khoa",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Seller POD (7-10 triệu)",
+      "education_level": "other",
+      "field_of_study": "Kỹ thuật",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Seller POD (7-10 triệu)",
+      "education_level": "other",
+      "field_of_study": "Ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Seller POD (7-10 triệu)",
+      "education_level": "other",
+      "field_of_study": "Sư phạm",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Bán Hàng Xe đạp thể thao tại Showroom (Thu nhập 10-15 triệu)",
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Bán Hàng Xe đạp thể thao tại Showroom (Thu nhập 10-15 triệu)",
+      "education_level": "associate",
+      "field_of_study": "Thương mại điện tử",
+      "mandatory": true
+    },
+    {
+      "title": "Trưởng Giám sát bếp",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Bếp Phó",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Vận Hành Máy (Tiện / Phay CNC)",
+      "education_level": "master",
+      "field_of_study": "None",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Kỹ thuật",
+      "education_level": "associate",
+      "field_of_study": "Cơ khí",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật",
+      "education_level": "associate",
+      "field_of_study": "Xây dựng",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ thuật",
+      "education_level": "associate",
+      "field_of_study": "Kiến trúc",
+      "mandatory": true
+    },
+    {
+      "title": "Giáo viên Tiếng Anh",
+      "education_level": "bachelor",
+      "field_of_study": "Sư phạm tiếng anh",
+      "mandatory": true
+    },
+    {
+      "title": "Giáo viên Tiếng Anh",
+      "education_level": "bachelor",
+      "field_of_study": "Ngôn ngữ anh",
+      "mandatory": true
+    },
+    {
+      "title": "Giáo viên Tiếng Anh",
+      "education_level": "master",
+      "field_of_study": "Ngôn ngữ anh",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Kinh doanh (Thang Máy, Thang Cuốn)",
+      "education_level": "other",
+      "field_of_study": "Qtkd",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh (Thang Máy, Thang Cuốn)",
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Tư Vấn Bán hàng",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ Thuật Điện – Cơ Khí",
+      "education_level": "other",
+      "field_of_study": "Điện",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ Thuật Điện – Cơ Khí",
+      "education_level": "other",
+      "field_of_study": "Cơ khí",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh Doanh Mỹ Phẩm",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Technical SEO",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Internet Marketing",
+      "education_level": "other",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Internet Marketing",
+      "education_level": "other",
+      "field_of_study": "Bách khoa",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Internet Marketing",
+      "education_level": "other",
+      "field_of_study": "Kỹ thuật",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Internet Marketing",
+      "education_level": "other",
+      "field_of_study": "Ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Internet Marketing",
+      "education_level": "other",
+      "field_of_study": "Sư phạm",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Sales Chăm sóc Khách hàng",
+      "education_level": "associate",
+      "field_of_study": "Qtkd",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Sales Chăm sóc Khách hàng",
+      "education_level": "associate",
+      "field_of_study": "Xnk",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Sales Chăm sóc Khách hàng",
+      "education_level": "associate",
+      "field_of_study": "Ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Sales Chăm sóc Khách hàng",
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh Dịch vụ Viễn Thông",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Quản Lý Media (8-12 triệu)",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh Thang Máy",
+      "education_level": "other",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh Thang Máy",
+      "education_level": "other",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh Thang Máy",
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh Thang Máy",
+      "education_level": "other",
+      "field_of_study": "Truyền thông",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh (Thiết bị Điện – Chiếu Sáng)",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ Thuật",
+      "education_level": "associate",
+      "field_of_study": "Điện",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ Thuật",
+      "education_level": "associate",
+      "field_of_study": "Điện tử",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kỹ Thuật",
+      "education_level": "associate",
+      "field_of_study": "Tự động hóa",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kế toán Bán hàng",
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh – Lĩnh Vực Chiếu Sáng",
+      "education_level": "other",
+      "field_of_study": "Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh – Lĩnh Vực Chiếu Sáng",
+      "education_level": "other",
+      "field_of_study": "Kỹ thuật",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh – Lĩnh Vực Chiếu Sáng",
+      "education_level": "other",
+      "field_of_study": "Điện điện tử",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh – Lĩnh Vực Chiếu Sáng",
+      "education_level": "other",
+      "field_of_study": "Viễn thông",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh – Lĩnh Vực Chiếu Sáng",
+      "education_level": "other",
+      "field_of_study": "Cơ điện tử",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh – Lĩnh Vực Chiếu Sáng",
+      "education_level": "other",
+      "field_of_study": "Tự động hóa",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh – Lĩnh Vực Chiếu Sáng",
+      "education_level": "other",
+      "field_of_study": "Kiến trúc",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh – Lĩnh Vực Chiếu Sáng",
+      "education_level": "other",
+      "field_of_study": "Xây dựng",
+      "mandatory": true
+    },
+    {
+      "title": "Công nhân Học Nghề Thang Máy",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Biên Phiên dịch Tiếng Nhật",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh tại Văn phòng",
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh tại Văn phòng",
+      "education_level": "associate",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh tại Văn phòng",
+      "education_level": "associate",
+      "field_of_study": "Văn phòng",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh tại Văn phòng",
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Chủ nhiệm Lớp Anh Ngữ | Quản lý Lớp Học",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Tư Vấn Viên",
+      "education_level": "other",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh Khu vực Miền Trung",
+      "education_level": "associate",
+      "field_of_study": "Thương mại",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Kinh doanh Khu vực Miền Trung",
+      "education_level": "associate",
+      "field_of_study": "Qtkd",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh (Lĩnh Vực Thiết Bị Điện)",
+      "education_level": "other",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Seller (POD/DROPSHIP)",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Kiến trúc sư Triển Khai Bản Vẽ Kiến Trúc",
+      "education_level": "associate",
+      "field_of_study": "Kiến trúc",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Tổ Chức Đào tạo",
+      "education_level": "other",
+      "field_of_study": "Nhân sự",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Tổ Chức Đào tạo",
+      "education_level": "other",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên viên Tổ Chức Đào tạo",
+      "education_level": "other",
+      "field_of_study": "Quản trị",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Content Marketing",
+      "education_level": "bachelor",
+      "field_of_study": "Báo chí",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Content Marketing",
+      "education_level": "bachelor",
+      "field_of_study": "Marketing",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Content Marketing",
+      "education_level": "bachelor",
+      "field_of_study": "Pr",
+      "mandatory": false
+    },
+    {
+      "title": "Nhân viên Kỹ thuật (Bảo hành Bảo trì hệ thống PCCC)",
+      "education_level": "associate",
+      "field_of_study": "None",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Kinh Doanh (Lĩnh vực CNTT)",
+      "education_level": "bachelor",
+      "field_of_study": "Qtkd",
+      "mandatory": true
+    },
+    {
+      "title": "Chuyên Viên Kinh Doanh (Lĩnh vực CNTT)",
+      "education_level": "bachelor",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh Tour Du Lịch",
+      "education_level": "other",
+      "field_of_study": "Quản trị dvdl lữ hành",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh Tour Du Lịch",
+      "education_level": "other",
+      "field_of_study": "Việt nam học",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân Viên Kinh Doanh Tour Du Lịch",
+      "education_level": "other",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Tư vấn Bán hàng (Xe Ô tô Hyundai)",
+      "education_level": "other",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Tư vấn Bán hàng (Xe Ô tô Hyundai)",
+      "education_level": "other",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Tư vấn Bán hàng (Xe Ô tô Hyundai)",
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Tư vấn Bán hàng (Xe Ô tô Hyundai)",
+      "education_level": "other",
+      "field_of_study": "Ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "title": "Nhân viên Tư vấn Bán hàng (Xe Ô tô Hyundai)",
+      "education_level": "other",
+      "field_of_study": "Cơ khí ô tô",
+      "mandatory": true
+    }
+  ]
+}

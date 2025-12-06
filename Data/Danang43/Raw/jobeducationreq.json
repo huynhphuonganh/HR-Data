@@ -1,0 +1,5339 @@
+{
+  "metadata": {
+    "total_records": 761,
+    "crawled_records": 761,
+    "start_time": "2025-10-08T13:01:43.829344",
+    "last_updated": "2025-10-08T13:14:29.454463",
+    "source": "Danang43.vn Crawler",
+    "description": "Job education requirements data crawled from Danang43.vn by job postings"
+  },
+  "job_education_requirements": [
+    {
+      "jobEducationReqID": 1,
+      "jobID": 3,
+      "education_level": "bachelor",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 2,
+      "jobID": 3,
+      "education_level": "bachelor",
+      "field_of_study": "Kiểm toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 3,
+      "jobID": 3,
+      "education_level": "bachelor",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 4,
+      "jobID": 4,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 5,
+      "jobID": 5,
+      "education_level": "high_school",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 6,
+      "jobID": 6,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 7,
+      "jobID": 7,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 8,
+      "jobID": 8,
+      "education_level": "bachelor",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 9,
+      "jobID": 8,
+      "education_level": "bachelor",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 10,
+      "jobID": 8,
+      "education_level": "bachelor",
+      "field_of_study": "có chứng chỉ Kế toán trưởng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 11,
+      "jobID": 11,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 12,
+      "jobID": 14,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 13,
+      "jobID": 17,
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 14,
+      "jobID": 17,
+      "education_level": "other",
+      "field_of_study": "Truyền thông",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 15,
+      "jobID": 17,
+      "education_level": "other",
+      "field_of_study": "Thương mại điện tử",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 16,
+      "jobID": 17,
+      "education_level": "other",
+      "field_of_study": "Facebook",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 17,
+      "jobID": 17,
+      "education_level": "other",
+      "field_of_study": "Instagram",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 18,
+      "jobID": 23,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 19,
+      "jobID": 23,
+      "education_level": "other",
+      "field_of_study": "Điện",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 20,
+      "jobID": 23,
+      "education_level": "other",
+      "field_of_study": "Điện lạnh",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 21,
+      "jobID": 27,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 22,
+      "jobID": 29,
+      "education_level": "associate",
+      "field_of_study": "Truyền thông",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 23,
+      "jobID": 29,
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 24,
+      "jobID": 29,
+      "education_level": "associate",
+      "field_of_study": "Ngoại ngữ  English",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 25,
+      "jobID": 30,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 26,
+      "jobID": 34,
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 27,
+      "jobID": 34,
+      "education_level": "other",
+      "field_of_study": "QTKD",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 28,
+      "jobID": 34,
+      "education_level": "other",
+      "field_of_study": "Thương mại là một lợi thế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 29,
+      "jobID": 35,
+      "education_level": "high_school",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 30,
+      "jobID": 36,
+      "education_level": "other",
+      "field_of_study": "Điện  Điện tử",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 31,
+      "jobID": 36,
+      "education_level": "other",
+      "field_of_study": "Điện công nghiệp",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 32,
+      "jobID": 36,
+      "education_level": "other",
+      "field_of_study": "Cơ khí",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 33,
+      "jobID": 38,
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 34,
+      "jobID": 38,
+      "education_level": "associate",
+      "field_of_study": "Quản trị Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 35,
+      "jobID": 38,
+      "education_level": "associate",
+      "field_of_study": "Xây dựng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 36,
+      "jobID": 38,
+      "education_level": "associate",
+      "field_of_study": "Cơ khí",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 37,
+      "jobID": 38,
+      "education_level": "associate",
+      "field_of_study": "Kỹ thuật cấp thoát nước",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 38,
+      "jobID": 39,
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 39,
+      "jobID": 39,
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 40,
+      "jobID": 39,
+      "education_level": "bachelor",
+      "field_of_study": "Xây dựng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 41,
+      "jobID": 39,
+      "education_level": "bachelor",
+      "field_of_study": "thiết kế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 42,
+      "jobID": 47,
+      "education_level": "associate",
+      "field_of_study": "Điện",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 43,
+      "jobID": 52,
+      "education_level": "other",
+      "field_of_study": "về điện",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 44,
+      "jobID": 52,
+      "education_level": "other",
+      "field_of_study": "điện công nghiệp",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 45,
+      "jobID": 53,
+      "education_level": "associate",
+      "field_of_study": "Quản trị sự kiện",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 46,
+      "jobID": 53,
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 47,
+      "jobID": 53,
+      "education_level": "associate",
+      "field_of_study": "Truyền thông",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 48,
+      "jobID": 54,
+      "education_level": "other",
+      "field_of_study": "quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 49,
+      "jobID": 54,
+      "education_level": "other",
+      "field_of_study": "marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 50,
+      "jobID": 54,
+      "education_level": "other",
+      "field_of_study": "quản trị du lịch lữ hành",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 51,
+      "jobID": 54,
+      "education_level": "other",
+      "field_of_study": "kinh doanh quốc tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 52,
+      "jobID": 54,
+      "education_level": "other",
+      "field_of_study": "IT",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 53,
+      "jobID": 54,
+      "education_level": "other",
+      "field_of_study": "ngoại  ngữ",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 54,
+      "jobID": 55,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 55,
+      "jobID": 58,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 56,
+      "jobID": 63,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 57,
+      "jobID": 64,
+      "education_level": "high_school",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 58,
+      "jobID": 65,
+      "education_level": "high_school",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 59,
+      "jobID": 68,
+      "education_level": "bachelor",
+      "field_of_study": "ngôn ngữ Anh yêu cầu chứng chỉ nghiệp vụ sư phạm",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 60,
+      "jobID": 68,
+      "education_level": "bachelor",
+      "field_of_study": "sư phạm tiếng Anh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 61,
+      "jobID": 68,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 62,
+      "jobID": 68,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 63,
+      "jobID": 69,
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 64,
+      "jobID": 69,
+      "education_level": "associate",
+      "field_of_study": "Công nghệ thông tin",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 65,
+      "jobID": 74,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 66,
+      "jobID": 76,
+      "education_level": "other",
+      "field_of_study": "quản trị nhân sự",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 67,
+      "jobID": 76,
+      "education_level": "other",
+      "field_of_study": "quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 68,
+      "jobID": 79,
+      "education_level": "associate",
+      "field_of_study": "Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 69,
+      "jobID": 79,
+      "education_level": "associate",
+      "field_of_study": "Thương mại",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 70,
+      "jobID": 79,
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 71,
+      "jobID": 79,
+      "education_level": "associate",
+      "field_of_study": "Kinh Tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 72,
+      "jobID": 93,
+      "education_level": "associate",
+      "field_of_study": "kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 73,
+      "jobID": 93,
+      "education_level": "associate",
+      "field_of_study": "kiểm toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 74,
+      "jobID": 96,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 75,
+      "jobID": 98,
+      "education_level": "associate",
+      "field_of_study": "cơ khí",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 76,
+      "jobID": 98,
+      "education_level": "associate",
+      "field_of_study": "chế tạo máy",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 77,
+      "jobID": 104,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 78,
+      "jobID": 105,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 79,
+      "jobID": 107,
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị Nhân sự",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 80,
+      "jobID": 107,
+      "education_level": "bachelor",
+      "field_of_study": "Luật",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 81,
+      "jobID": 107,
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 82,
+      "jobID": 107,
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 83,
+      "jobID": 108,
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế Xây dựng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 84,
+      "jobID": 108,
+      "education_level": "bachelor",
+      "field_of_study": "Dự toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 85,
+      "jobID": 108,
+      "education_level": "bachelor",
+      "field_of_study": "QS",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 86,
+      "jobID": 109,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 87,
+      "jobID": 111,
+      "education_level": "high_school",
+      "field_of_study": null,
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 88,
+      "jobID": 112,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 89,
+      "jobID": 113,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 90,
+      "jobID": 114,
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị Nhân lực",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 91,
+      "jobID": 114,
+      "education_level": "bachelor",
+      "field_of_study": "Quản lý lao động",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 92,
+      "jobID": 116,
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 93,
+      "jobID": 116,
+      "education_level": "associate",
+      "field_of_study": "thương mại",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 94,
+      "jobID": 116,
+      "education_level": "associate",
+      "field_of_study": "ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 95,
+      "jobID": 118,
+      "education_level": "associate",
+      "field_of_study": "xây dựng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 96,
+      "jobID": 124,
+      "education_level": "other",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 97,
+      "jobID": 124,
+      "education_level": "other",
+      "field_of_study": "Quản trị Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 98,
+      "jobID": 124,
+      "education_level": "other",
+      "field_of_study": "Khách sạn",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 99,
+      "jobID": 124,
+      "education_level": "other",
+      "field_of_study": "Du lịch",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 100,
+      "jobID": 127,
+      "education_level": "associate",
+      "field_of_study": "kiến trúc",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 101,
+      "jobID": 127,
+      "education_level": "associate",
+      "field_of_study": "xây dựng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 102,
+      "jobID": 128,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 103,
+      "jobID": 129,
+      "education_level": "other",
+      "field_of_study": "gì",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 104,
+      "jobID": 129,
+      "education_level": "other",
+      "field_of_study": "ngoại ngữ tốt Đương nhiên",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 105,
+      "jobID": 129,
+      "education_level": "other",
+      "field_of_study": "nếu có thì thật tuyêt vời",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 106,
+      "jobID": 129,
+      "education_level": "other",
+      "field_of_study": "và nhiều ưu thế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 107,
+      "jobID": 134,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 108,
+      "jobID": 138,
+      "education_level": "high_school",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 109,
+      "jobID": 140,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 110,
+      "jobID": 141,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 111,
+      "jobID": 143,
+      "education_level": "high_school",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 112,
+      "jobID": 144,
+      "education_level": "bachelor",
+      "field_of_study": "Tài Chính-Kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 113,
+      "jobID": 149,
+      "education_level": "other",
+      "field_of_study": "Mỹ thuật ứng dụng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 114,
+      "jobID": 149,
+      "education_level": "other",
+      "field_of_study": "Thiết kế đồ họa",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 115,
+      "jobID": 151,
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 116,
+      "jobID": 151,
+      "education_level": "other",
+      "field_of_study": "Truyền thông",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 117,
+      "jobID": 151,
+      "education_level": "other",
+      "field_of_study": "Thương mại điện tử",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 118,
+      "jobID": 153,
+      "education_level": "bachelor",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 119,
+      "jobID": 154,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 120,
+      "jobID": 155,
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 121,
+      "jobID": 155,
+      "education_level": "associate",
+      "field_of_study": "Du lịch",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 122,
+      "jobID": 156,
+      "education_level": "bachelor",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 123,
+      "jobID": 157,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 124,
+      "jobID": 158,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 125,
+      "jobID": 159,
+      "education_level": "high_school",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 126,
+      "jobID": 161,
+      "education_level": "other",
+      "field_of_study": "Kiến trúc",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 127,
+      "jobID": 161,
+      "education_level": "other",
+      "field_of_study": "Nội thất",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 128,
+      "jobID": 163,
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 129,
+      "jobID": 163,
+      "education_level": "associate",
+      "field_of_study": "Logistics",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 130,
+      "jobID": 172,
+      "education_level": "other",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 131,
+      "jobID": 174,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 132,
+      "jobID": 176,
+      "education_level": "bachelor",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 133,
+      "jobID": 180,
+      "education_level": "associate",
+      "field_of_study": "kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 134,
+      "jobID": 181,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 135,
+      "jobID": 182,
+      "education_level": "other",
+      "field_of_study": "Tâm lý học",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 136,
+      "jobID": 184,
+      "education_level": "high_school",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 137,
+      "jobID": 186,
+      "education_level": "other",
+      "field_of_study": "Kế toán doanh nghiệp",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 138,
+      "jobID": 186,
+      "education_level": "other",
+      "field_of_study": "kế toán tài chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 139,
+      "jobID": 187,
+      "education_level": "other",
+      "field_of_study": "Kinh Tế Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 140,
+      "jobID": 187,
+      "education_level": "other",
+      "field_of_study": "luật kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 141,
+      "jobID": 187,
+      "education_level": "other",
+      "field_of_study": "tài chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 142,
+      "jobID": 187,
+      "education_level": "other",
+      "field_of_study": "ngân hàng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 143,
+      "jobID": 187,
+      "education_level": "other",
+      "field_of_study": "marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 144,
+      "jobID": 188,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 145,
+      "jobID": 191,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 146,
+      "jobID": 196,
+      "education_level": "associate",
+      "field_of_study": "kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 147,
+      "jobID": 196,
+      "education_level": "associate",
+      "field_of_study": "tài chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 148,
+      "jobID": 196,
+      "education_level": "associate",
+      "field_of_study": "ngân hàng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 149,
+      "jobID": 197,
+      "education_level": "other",
+      "field_of_study": "dịch vụ",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 150,
+      "jobID": 197,
+      "education_level": "other",
+      "field_of_study": "bất động sản",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 151,
+      "jobID": 197,
+      "education_level": "other",
+      "field_of_study": "tài chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 152,
+      "jobID": 198,
+      "education_level": "other",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 153,
+      "jobID": 198,
+      "education_level": "other",
+      "field_of_study": "Kiểm toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 154,
+      "jobID": 198,
+      "education_level": "other",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 155,
+      "jobID": 204,
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 156,
+      "jobID": 204,
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 157,
+      "jobID": 204,
+      "education_level": "associate",
+      "field_of_study": "Điện  Điện tử",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 158,
+      "jobID": 204,
+      "education_level": "associate",
+      "field_of_study": "Cơ điện",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 159,
+      "jobID": 205,
+      "education_level": "other",
+      "field_of_study": "kế toán có kinh nghiệm",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 160,
+      "jobID": 206,
+      "education_level": "associate",
+      "field_of_study": "điện  điện công nghiệp  điện tử tự động hóa",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 161,
+      "jobID": 207,
+      "education_level": "associate",
+      "field_of_study": "điện",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 162,
+      "jobID": 207,
+      "education_level": "associate",
+      "field_of_study": "nước",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 163,
+      "jobID": 207,
+      "education_level": "associate",
+      "field_of_study": "điện lạnh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 164,
+      "jobID": 134,
+      "education_level": "associate",
+      "field_of_study": "kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 165,
+      "jobID": 134,
+      "education_level": "associate",
+      "field_of_study": "thống kê",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 166,
+      "jobID": 217,
+      "education_level": "bachelor",
+      "field_of_study": null,
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 167,
+      "jobID": 219,
+      "education_level": "other",
+      "field_of_study": "thiết kế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 168,
+      "jobID": 221,
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị Nhân sự",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 169,
+      "jobID": 221,
+      "education_level": "bachelor",
+      "field_of_study": "Hành chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 170,
+      "jobID": 221,
+      "education_level": "bachelor",
+      "field_of_study": "Luật",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 171,
+      "jobID": 221,
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 172,
+      "jobID": 223,
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 173,
+      "jobID": 223,
+      "education_level": "associate",
+      "field_of_study": "CNTT",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 174,
+      "jobID": 223,
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 175,
+      "jobID": 225,
+      "education_level": "bachelor",
+      "field_of_study": "Tiếng Anh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 176,
+      "jobID": 225,
+      "education_level": "bachelor",
+      "field_of_study": "Nhân sự",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 177,
+      "jobID": 225,
+      "education_level": "bachelor",
+      "field_of_study": "Du lịch",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 178,
+      "jobID": 225,
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 179,
+      "jobID": 225,
+      "education_level": "bachelor",
+      "field_of_study": "Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 180,
+      "jobID": 226,
+      "education_level": "bachelor",
+      "field_of_study": "Tiếng Anh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 181,
+      "jobID": 226,
+      "education_level": "bachelor",
+      "field_of_study": "Nhân sự",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 182,
+      "jobID": 226,
+      "education_level": "bachelor",
+      "field_of_study": "Du lịch",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 183,
+      "jobID": 226,
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 184,
+      "jobID": 226,
+      "education_level": "bachelor",
+      "field_of_study": "Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 185,
+      "jobID": 227,
+      "education_level": "other",
+      "field_of_study": "nhiệt",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 186,
+      "jobID": 227,
+      "education_level": "other",
+      "field_of_study": "điện lạnh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 187,
+      "jobID": 228,
+      "education_level": "other",
+      "field_of_study": "Kế toán  Tài chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 188,
+      "jobID": 229,
+      "education_level": "other",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 189,
+      "jobID": 229,
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 190,
+      "jobID": 229,
+      "education_level": "other",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 191,
+      "jobID": 230,
+      "education_level": "associate",
+      "field_of_study": "In ấn",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 192,
+      "jobID": 230,
+      "education_level": "associate",
+      "field_of_study": "Cơ khí",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 193,
+      "jobID": 230,
+      "education_level": "associate",
+      "field_of_study": "Kỹ thuật",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 194,
+      "jobID": 231,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 195,
+      "jobID": 232,
+      "education_level": "bachelor",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 196,
+      "jobID": 235,
+      "education_level": "associate",
+      "field_of_study": "Điện  Điện tử",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 197,
+      "jobID": 235,
+      "education_level": "associate",
+      "field_of_study": "Cơ điện",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 198,
+      "jobID": 235,
+      "education_level": "associate",
+      "field_of_study": "Cơ khí",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 199,
+      "jobID": 235,
+      "education_level": "associate",
+      "field_of_study": "Tự động hóa",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 200,
+      "jobID": 236,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 201,
+      "jobID": 237,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 202,
+      "jobID": 238,
+      "education_level": "associate",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 203,
+      "jobID": 241,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 204,
+      "jobID": 243,
+      "education_level": "bachelor",
+      "field_of_study": "Kế toán  Kiểm toán  Tài chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 205,
+      "jobID": 244,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 206,
+      "jobID": 245,
+      "education_level": "other",
+      "field_of_study": "điện",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 207,
+      "jobID": 245,
+      "education_level": "other",
+      "field_of_study": "điện tử",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 208,
+      "jobID": 245,
+      "education_level": "other",
+      "field_of_study": "cơ khí",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 209,
+      "jobID": 247,
+      "education_level": "associate",
+      "field_of_study": "Thiết kế đồ họa",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 210,
+      "jobID": 247,
+      "education_level": "associate",
+      "field_of_study": "Mỹ thuật công nghiệp",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 211,
+      "jobID": 250,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 212,
+      "jobID": 252,
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị nhân sự",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 213,
+      "jobID": 252,
+      "education_level": "bachelor",
+      "field_of_study": "Luật",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 214,
+      "jobID": 252,
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 215,
+      "jobID": 256,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 216,
+      "jobID": 258,
+      "education_level": "bachelor",
+      "field_of_study": "Marketing",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 217,
+      "jobID": 258,
+      "education_level": "bachelor",
+      "field_of_study": "truyền thông",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 218,
+      "jobID": 258,
+      "education_level": "bachelor",
+      "field_of_study": "báo chí",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 219,
+      "jobID": 258,
+      "education_level": "bachelor",
+      "field_of_study": "mỹ phẩm",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 220,
+      "jobID": 261,
+      "education_level": "associate",
+      "field_of_study": "Kế toán  Tài chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 221,
+      "jobID": 262,
+      "education_level": "associate",
+      "field_of_study": "kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 222,
+      "jobID": 265,
+      "education_level": "other",
+      "field_of_study": "Thiết kế Đồ họa",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 223,
+      "jobID": 269,
+      "education_level": "bachelor",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 224,
+      "jobID": 269,
+      "education_level": "bachelor",
+      "field_of_study": "Kiểm toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 225,
+      "jobID": 269,
+      "education_level": "bachelor",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 226,
+      "jobID": 271,
+      "education_level": "bachelor",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 227,
+      "jobID": 271,
+      "education_level": "bachelor",
+      "field_of_study": "Kiểm toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 228,
+      "jobID": 272,
+      "education_level": "high_school",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 229,
+      "jobID": 275,
+      "education_level": "high_school",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 230,
+      "jobID": 279,
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 231,
+      "jobID": 279,
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 232,
+      "jobID": 279,
+      "education_level": "associate",
+      "field_of_study": "Bất động sản",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 233,
+      "jobID": 280,
+      "education_level": "bachelor",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 234,
+      "jobID": 281,
+      "education_level": "bachelor",
+      "field_of_study": "Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 235,
+      "jobID": 281,
+      "education_level": "bachelor",
+      "field_of_study": "Thương mại",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 236,
+      "jobID": 281,
+      "education_level": "bachelor",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 237,
+      "jobID": 281,
+      "education_level": "bachelor",
+      "field_of_study": "Kinh Tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 238,
+      "jobID": 284,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 239,
+      "jobID": 285,
+      "education_level": "other",
+      "field_of_study": "khách sạn",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 240,
+      "jobID": 285,
+      "education_level": "other",
+      "field_of_study": "du lịch",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 241,
+      "jobID": 287,
+      "education_level": "other",
+      "field_of_study": "về Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 242,
+      "jobID": 287,
+      "education_level": "other",
+      "field_of_study": "Truyền thông",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 243,
+      "jobID": 287,
+      "education_level": "other",
+      "field_of_study": "Báo chí",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 244,
+      "jobID": 290,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 245,
+      "jobID": 297,
+      "education_level": "bachelor",
+      "field_of_study": "nông nghiệp",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 246,
+      "jobID": 297,
+      "education_level": "bachelor",
+      "field_of_study": "chăn nuôi",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 247,
+      "jobID": 298,
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 248,
+      "jobID": 298,
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 249,
+      "jobID": 298,
+      "education_level": "associate",
+      "field_of_study": "thương mại",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 250,
+      "jobID": 298,
+      "education_level": "associate",
+      "field_of_study": "kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 251,
+      "jobID": 301,
+      "education_level": "associate",
+      "field_of_study": "Kinh doanh",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 252,
+      "jobID": 301,
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 253,
+      "jobID": 303,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 254,
+      "jobID": 304,
+      "education_level": "associate",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 255,
+      "jobID": 308,
+      "education_level": "other",
+      "field_of_study": "kế toán doanh nghiệp Điểm các môn chuyên ngành từ 8đ trở lên",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 256,
+      "jobID": 310,
+      "education_level": "bachelor",
+      "field_of_study": "Luật",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 257,
+      "jobID": 310,
+      "education_level": "bachelor",
+      "field_of_study": "Kỹ sư Kinh tế Xây dựng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 258,
+      "jobID": 310,
+      "education_level": "bachelor",
+      "field_of_study": "Kỹ sư Xây dựng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 259,
+      "jobID": 315,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 260,
+      "jobID": 317,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 261,
+      "jobID": 326,
+      "education_level": "high_school",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 262,
+      "jobID": 327,
+      "education_level": "associate",
+      "field_of_study": "Kinh doanh",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 263,
+      "jobID": 327,
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 264,
+      "jobID": 327,
+      "education_level": "associate",
+      "field_of_study": "Dệt may",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 265,
+      "jobID": 328,
+      "education_level": "associate",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 266,
+      "jobID": 328,
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 267,
+      "jobID": 328,
+      "education_level": "associate",
+      "field_of_study": "Thương mại",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 268,
+      "jobID": 328,
+      "education_level": "associate",
+      "field_of_study": "Kinh doanh dịch vụ",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 269,
+      "jobID": 331,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 270,
+      "jobID": 333,
+      "education_level": "associate",
+      "field_of_study": "Thiết kế Đồ Họa",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 271,
+      "jobID": 333,
+      "education_level": "associate",
+      "field_of_study": "Mỹ thuật",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 272,
+      "jobID": 333,
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 273,
+      "jobID": 333,
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 274,
+      "jobID": 338,
+      "education_level": "other",
+      "field_of_study": "điều hòa không khí",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 275,
+      "jobID": 338,
+      "education_level": "other",
+      "field_of_study": "điện công nghiệp",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 276,
+      "jobID": 341,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 277,
+      "jobID": 342,
+      "education_level": "other",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 278,
+      "jobID": 342,
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 279,
+      "jobID": 342,
+      "education_level": "other",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 280,
+      "jobID": 342,
+      "education_level": "other",
+      "field_of_study": "in ấn",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 281,
+      "jobID": 348,
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị Khách sạn",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 282,
+      "jobID": 348,
+      "education_level": "bachelor",
+      "field_of_study": "Sư phạm",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 283,
+      "jobID": 351,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 284,
+      "jobID": 352,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 285,
+      "jobID": 353,
+      "education_level": "bachelor",
+      "field_of_study": "Tài Chính  Kế Toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 286,
+      "jobID": 365,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 287,
+      "jobID": 368,
+      "education_level": "other",
+      "field_of_study": "kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 288,
+      "jobID": 370,
+      "education_level": "associate",
+      "field_of_study": "kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 289,
+      "jobID": 370,
+      "education_level": "associate",
+      "field_of_study": "tài chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 290,
+      "jobID": 372,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 291,
+      "jobID": 373,
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 292,
+      "jobID": 373,
+      "education_level": "bachelor",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 293,
+      "jobID": 373,
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 294,
+      "jobID": 376,
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 295,
+      "jobID": 376,
+      "education_level": "bachelor",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 296,
+      "jobID": 376,
+      "education_level": "bachelor",
+      "field_of_study": "Thương mại",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 297,
+      "jobID": 376,
+      "education_level": "bachelor",
+      "field_of_study": "Ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 298,
+      "jobID": 382,
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 299,
+      "jobID": 382,
+      "education_level": "associate",
+      "field_of_study": "Quản trị Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 300,
+      "jobID": 383,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 301,
+      "jobID": 384,
+      "education_level": "associate",
+      "field_of_study": "Công nghệ ô tô",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 302,
+      "jobID": 386,
+      "education_level": "bachelor",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 303,
+      "jobID": 386,
+      "education_level": "bachelor",
+      "field_of_study": "Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 304,
+      "jobID": 386,
+      "education_level": "bachelor",
+      "field_of_study": "Giáo dục",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 305,
+      "jobID": 386,
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị nhân sự",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 306,
+      "jobID": 389,
+      "education_level": "associate",
+      "field_of_study": "Luật",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 307,
+      "jobID": 389,
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 308,
+      "jobID": 390,
+      "education_level": "bachelor",
+      "field_of_study": "Luật",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 309,
+      "jobID": 390,
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 310,
+      "jobID": 390,
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị KD",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 311,
+      "jobID": 390,
+      "education_level": "bachelor",
+      "field_of_study": "BĐS",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 312,
+      "jobID": 392,
+      "education_level": "other",
+      "field_of_study": "kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 313,
+      "jobID": 392,
+      "education_level": "other",
+      "field_of_study": "tài chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 314,
+      "jobID": 393,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 315,
+      "jobID": 397,
+      "education_level": "bachelor",
+      "field_of_study": "Kiến trúc",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 316,
+      "jobID": 397,
+      "education_level": "bachelor",
+      "field_of_study": "Quy hoạch",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 317,
+      "jobID": 397,
+      "education_level": "bachelor",
+      "field_of_study": "Nội thất",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 318,
+      "jobID": 398,
+      "education_level": "bachelor",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 319,
+      "jobID": 398,
+      "education_level": "bachelor",
+      "field_of_study": "Truyền thông",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 320,
+      "jobID": 398,
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 321,
+      "jobID": 400,
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 322,
+      "jobID": 400,
+      "education_level": "other",
+      "field_of_study": "Quản trị Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 323,
+      "jobID": 400,
+      "education_level": "other",
+      "field_of_study": "Thương mại là một lợi thế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 324,
+      "jobID": 401,
+      "education_level": "other",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 325,
+      "jobID": 401,
+      "education_level": "other",
+      "field_of_study": "Giáo dục",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 326,
+      "jobID": 401,
+      "education_level": "other",
+      "field_of_study": "Ngôn ngữ",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 327,
+      "jobID": 401,
+      "education_level": "other",
+      "field_of_study": "Truyền thông",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 328,
+      "jobID": 403,
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 329,
+      "jobID": 403,
+      "education_level": "associate",
+      "field_of_study": "Quản trị",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 330,
+      "jobID": 403,
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 331,
+      "jobID": 405,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 332,
+      "jobID": 406,
+      "education_level": "associate",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 333,
+      "jobID": 406,
+      "education_level": "associate",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 334,
+      "jobID": 408,
+      "education_level": "associate",
+      "field_of_study": "Kinh doanh",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 335,
+      "jobID": 408,
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 336,
+      "jobID": 410,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 337,
+      "jobID": 419,
+      "education_level": "other",
+      "field_of_study": "Truyền thông",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 338,
+      "jobID": 419,
+      "education_level": "other",
+      "field_of_study": "Báo chí",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 339,
+      "jobID": 419,
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 340,
+      "jobID": 419,
+      "education_level": "other",
+      "field_of_study": "PR",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 341,
+      "jobID": 421,
+      "education_level": "bachelor",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 342,
+      "jobID": 422,
+      "education_level": "other",
+      "field_of_study": "CNTT",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 343,
+      "jobID": 422,
+      "education_level": "other",
+      "field_of_study": "tin học",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 344,
+      "jobID": 422,
+      "education_level": "other",
+      "field_of_study": "điện",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 345,
+      "jobID": 422,
+      "education_level": "other",
+      "field_of_study": "máy tính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 346,
+      "jobID": 424,
+      "education_level": "associate",
+      "field_of_study": "về khách sạn",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 347,
+      "jobID": 424,
+      "education_level": "associate",
+      "field_of_study": "nhà hàng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 348,
+      "jobID": 424,
+      "education_level": "associate",
+      "field_of_study": "quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 349,
+      "jobID": 428,
+      "education_level": "other",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 350,
+      "jobID": 428,
+      "education_level": "other",
+      "field_of_study": "Quản trị Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 351,
+      "jobID": 428,
+      "education_level": "other",
+      "field_of_study": "BĐS",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 352,
+      "jobID": 428,
+      "education_level": "other",
+      "field_of_study": "Ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 353,
+      "jobID": 434,
+      "education_level": "bachelor",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 354,
+      "jobID": 436,
+      "education_level": "high_school",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 355,
+      "jobID": 436,
+      "education_level": "other",
+      "field_of_study": "khách sạn",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 356,
+      "jobID": 436,
+      "education_level": "other",
+      "field_of_study": "du lịch",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 357,
+      "jobID": 436,
+      "education_level": "other",
+      "field_of_study": "chứng chỉ nghiệp vụ Buồng phòng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 358,
+      "jobID": 446,
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 359,
+      "jobID": 446,
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 360,
+      "jobID": 446,
+      "education_level": "associate",
+      "field_of_study": "tương tự",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 361,
+      "jobID": 447,
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 362,
+      "jobID": 447,
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 363,
+      "jobID": 447,
+      "education_level": "associate",
+      "field_of_study": "tương tự",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 364,
+      "jobID": 449,
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 365,
+      "jobID": 449,
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 366,
+      "jobID": 449,
+      "education_level": "associate",
+      "field_of_study": "tương tự",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 367,
+      "jobID": 450,
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 368,
+      "jobID": 450,
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 369,
+      "jobID": 450,
+      "education_level": "associate",
+      "field_of_study": "tương tự",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 370,
+      "jobID": 453,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 371,
+      "jobID": 455,
+      "education_level": "associate",
+      "field_of_study": "thiết kế đồ họa",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 372,
+      "jobID": 456,
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 373,
+      "jobID": 456,
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 374,
+      "jobID": 456,
+      "education_level": "associate",
+      "field_of_study": "tương tự",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 375,
+      "jobID": 457,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 376,
+      "jobID": 458,
+      "education_level": "other",
+      "field_of_study": "truyền thông",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 377,
+      "jobID": 458,
+      "education_level": "other",
+      "field_of_study": "báo chí",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 378,
+      "jobID": 465,
+      "education_level": "high_school",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 379,
+      "jobID": 467,
+      "education_level": "other",
+      "field_of_study": "Xây dựng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 380,
+      "jobID": 467,
+      "education_level": "other",
+      "field_of_study": "có kinh nghiệm mảng xây dựng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 381,
+      "jobID": 470,
+      "education_level": "associate",
+      "field_of_study": "CNTT",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 382,
+      "jobID": 470,
+      "education_level": "associate",
+      "field_of_study": "Công nghệ",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 383,
+      "jobID": 470,
+      "education_level": "associate",
+      "field_of_study": "Quản trị mạng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 384,
+      "jobID": 475,
+      "education_level": "bachelor",
+      "field_of_study": "Nhà hàng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 385,
+      "jobID": 475,
+      "education_level": "bachelor",
+      "field_of_study": "Khách sạn",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 386,
+      "jobID": 475,
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 387,
+      "jobID": 476,
+      "education_level": "associate",
+      "field_of_study": "điện",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 388,
+      "jobID": 476,
+      "education_level": "associate",
+      "field_of_study": "tự động hóa công nghiệp",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 389,
+      "jobID": 477,
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 390,
+      "jobID": 477,
+      "education_level": "bachelor",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 391,
+      "jobID": 480,
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 392,
+      "jobID": 480,
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 393,
+      "jobID": 480,
+      "education_level": "associate",
+      "field_of_study": "tương tự",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 394,
+      "jobID": 481,
+      "education_level": "other",
+      "field_of_study": "Công nghệ Thông tin",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 395,
+      "jobID": 481,
+      "education_level": "other",
+      "field_of_study": "Hệ thống Thông tin Quản lý",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 396,
+      "jobID": 482,
+      "education_level": "high_school",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 397,
+      "jobID": 486,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 398,
+      "jobID": 487,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 399,
+      "jobID": 489,
+      "education_level": "bachelor",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 400,
+      "jobID": 489,
+      "education_level": "bachelor",
+      "field_of_study": "Kiểm toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 401,
+      "jobID": 489,
+      "education_level": "bachelor",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 402,
+      "jobID": 490,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 403,
+      "jobID": 490,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 404,
+      "jobID": 492,
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị nguồn Nhân lực",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 405,
+      "jobID": 492,
+      "education_level": "bachelor",
+      "field_of_study": "ngành Văn hóa",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 406,
+      "jobID": 492,
+      "education_level": "bachelor",
+      "field_of_study": "Truyền thông",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 407,
+      "jobID": 492,
+      "education_level": "bachelor",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 408,
+      "jobID": 493,
+      "education_level": "other",
+      "field_of_study": "marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 409,
+      "jobID": 493,
+      "education_level": "other",
+      "field_of_study": "biết sử dụng vi tính các nền tảng quảng cáo mạng Internet và mạng xã hội",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 410,
+      "jobID": 494,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 411,
+      "jobID": 494,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 412,
+      "jobID": 495,
+      "education_level": "other",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 413,
+      "jobID": 495,
+      "education_level": "other",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 414,
+      "jobID": 495,
+      "education_level": "other",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 415,
+      "jobID": 496,
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 416,
+      "jobID": 496,
+      "education_level": "bachelor",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 417,
+      "jobID": 498,
+      "education_level": "bachelor",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 418,
+      "jobID": 498,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 419,
+      "jobID": 499,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 420,
+      "jobID": 501,
+      "education_level": "bachelor",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 421,
+      "jobID": 501,
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 422,
+      "jobID": 501,
+      "education_level": "bachelor",
+      "field_of_study": "kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 423,
+      "jobID": 502,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 424,
+      "jobID": 508,
+      "education_level": "other",
+      "field_of_study": "kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 425,
+      "jobID": 508,
+      "education_level": "other",
+      "field_of_study": "quản lý",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 426,
+      "jobID": 509,
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 427,
+      "jobID": 509,
+      "education_level": "bachelor",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 428,
+      "jobID": 510,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 429,
+      "jobID": 511,
+      "education_level": "associate",
+      "field_of_study": "cơ khí động lực",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 430,
+      "jobID": 511,
+      "education_level": "associate",
+      "field_of_study": "công nghệ kỹ thuật ô tô",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 431,
+      "jobID": 513,
+      "education_level": "associate",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 432,
+      "jobID": 514,
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 433,
+      "jobID": 514,
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 434,
+      "jobID": 514,
+      "education_level": "associate",
+      "field_of_study": "tương tự",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 435,
+      "jobID": 516,
+      "education_level": "bachelor",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 436,
+      "jobID": 523,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 437,
+      "jobID": 526,
+      "education_level": "other",
+      "field_of_study": "nghề Kinh Tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 438,
+      "jobID": 529,
+      "education_level": "other",
+      "field_of_study": "nghề",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 439,
+      "jobID": 531,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 440,
+      "jobID": 531,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 441,
+      "jobID": 532,
+      "education_level": "bachelor",
+      "field_of_study": "Cơ điện",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 442,
+      "jobID": 532,
+      "education_level": "bachelor",
+      "field_of_study": "Điện",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 443,
+      "jobID": 532,
+      "education_level": "bachelor",
+      "field_of_study": "Nhiệt lạnh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 444,
+      "jobID": 533,
+      "education_level": "associate",
+      "field_of_study": "Cơ điện",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 445,
+      "jobID": 533,
+      "education_level": "associate",
+      "field_of_study": "Điện",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 446,
+      "jobID": 533,
+      "education_level": "associate",
+      "field_of_study": "Nhiệt lạnh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 447,
+      "jobID": 537,
+      "education_level": "associate",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 448,
+      "jobID": 538,
+      "education_level": "other",
+      "field_of_study": "truyền thông",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 449,
+      "jobID": 538,
+      "education_level": "other",
+      "field_of_study": "báo chí",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 450,
+      "jobID": 539,
+      "education_level": "bachelor",
+      "field_of_study": "Luật ưu tiên có chứng chỉ hành nghề luật sư",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 451,
+      "jobID": 542,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 452,
+      "jobID": 546,
+      "education_level": "associate",
+      "field_of_study": "kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 453,
+      "jobID": 546,
+      "education_level": "associate",
+      "field_of_study": "kiểm toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 454,
+      "jobID": 547,
+      "education_level": "other",
+      "field_of_study": "Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 455,
+      "jobID": 547,
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 456,
+      "jobID": 547,
+      "education_level": "other",
+      "field_of_study": "kiến trúc",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 457,
+      "jobID": 547,
+      "education_level": "other",
+      "field_of_study": "nội thất",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 458,
+      "jobID": 553,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 459,
+      "jobID": 558,
+      "education_level": "associate",
+      "field_of_study": "tài chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 460,
+      "jobID": 558,
+      "education_level": "associate",
+      "field_of_study": "kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 461,
+      "jobID": 558,
+      "education_level": "associate",
+      "field_of_study": "kiểm toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 462,
+      "jobID": 566,
+      "education_level": "other",
+      "field_of_study": "nghề",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 463,
+      "jobID": 567,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 464,
+      "jobID": 570,
+      "education_level": "other",
+      "field_of_study": "nghề quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 465,
+      "jobID": 570,
+      "education_level": "other",
+      "field_of_study": "tài chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 466,
+      "jobID": 570,
+      "education_level": "other",
+      "field_of_study": "marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 467,
+      "jobID": 570,
+      "education_level": "other",
+      "field_of_study": "ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 468,
+      "jobID": 570,
+      "education_level": "other",
+      "field_of_study": "cơ khí ô tô",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 469,
+      "jobID": 572,
+      "education_level": "bachelor",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 470,
+      "jobID": 572,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 471,
+      "jobID": 576,
+      "education_level": "associate",
+      "field_of_study": "điều dưỡng đa khoa",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 472,
+      "jobID": 576,
+      "education_level": "associate",
+      "field_of_study": "điều dưỡng răng hàm mặt",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 473,
+      "jobID": 578,
+      "education_level": "other",
+      "field_of_study": "răng hàm mặt",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 474,
+      "jobID": 578,
+      "education_level": "other",
+      "field_of_study": "đã có kinh nghiệm trong lĩnh vực răng hàm mặt",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 475,
+      "jobID": 579,
+      "education_level": "other",
+      "field_of_study": "răng hàm mặt",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 476,
+      "jobID": 579,
+      "education_level": "other",
+      "field_of_study": "đã có kinh nghiệm trong lĩnh vực răng hàm mặt",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 477,
+      "jobID": 584,
+      "education_level": "associate",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 478,
+      "jobID": 586,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 479,
+      "jobID": 593,
+      "education_level": "other",
+      "field_of_study": "Thiết kế đồ họa",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 480,
+      "jobID": 593,
+      "education_level": "other",
+      "field_of_study": "Multimedia",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 481,
+      "jobID": 593,
+      "education_level": "other",
+      "field_of_study": "Animation",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 482,
+      "jobID": 597,
+      "education_level": "other",
+      "field_of_study": "kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 483,
+      "jobID": 597,
+      "education_level": "other",
+      "field_of_study": "marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 484,
+      "jobID": 597,
+      "education_level": "other",
+      "field_of_study": "dịch vụ ô tô",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 485,
+      "jobID": 597,
+      "education_level": "other",
+      "field_of_study": "sinh viên mới tốt nghiệp các ngành nghề quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 486,
+      "jobID": 597,
+      "education_level": "other",
+      "field_of_study": "tài chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 487,
+      "jobID": 597,
+      "education_level": "other",
+      "field_of_study": "marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 488,
+      "jobID": 597,
+      "education_level": "other",
+      "field_of_study": "ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 489,
+      "jobID": 597,
+      "education_level": "other",
+      "field_of_study": "cơ khí ô tô",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 490,
+      "jobID": 599,
+      "education_level": "other",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 491,
+      "jobID": 599,
+      "education_level": "other",
+      "field_of_study": "Ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 492,
+      "jobID": 607,
+      "education_level": "other",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 493,
+      "jobID": 607,
+      "education_level": "other",
+      "field_of_study": "Kiểm toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 494,
+      "jobID": 607,
+      "education_level": "other",
+      "field_of_study": "Tài chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 495,
+      "jobID": 612,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 496,
+      "jobID": 613,
+      "education_level": "other",
+      "field_of_study": "Kế toán  Tài chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 497,
+      "jobID": 616,
+      "education_level": "bachelor",
+      "field_of_study": "Công nghệ Thông tin",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 498,
+      "jobID": 617,
+      "education_level": "associate",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 499,
+      "jobID": 617,
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 500,
+      "jobID": 619,
+      "education_level": "bachelor",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 501,
+      "jobID": 620,
+      "education_level": "high_school",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 502,
+      "jobID": 621,
+      "education_level": "bachelor",
+      "field_of_study": "kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 503,
+      "jobID": 622,
+      "education_level": "bachelor",
+      "field_of_study": "kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 504,
+      "jobID": 624,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 505,
+      "jobID": 625,
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 506,
+      "jobID": 625,
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 507,
+      "jobID": 626,
+      "education_level": "other",
+      "field_of_study": "thiết kế Kiến trúc  Nội thất",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 508,
+      "jobID": 627,
+      "education_level": "bachelor",
+      "field_of_study": "Ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 509,
+      "jobID": 627,
+      "education_level": "bachelor",
+      "field_of_study": "kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 510,
+      "jobID": 627,
+      "education_level": "bachelor",
+      "field_of_study": "giáo dục",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 511,
+      "jobID": 627,
+      "education_level": "bachelor",
+      "field_of_study": "tâm lý",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 512,
+      "jobID": 628,
+      "education_level": "bachelor",
+      "field_of_study": "trở lên An toàn thông tin",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 513,
+      "jobID": 628,
+      "education_level": "bachelor",
+      "field_of_study": "Công nghệ thông tin",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 514,
+      "jobID": 631,
+      "education_level": "bachelor",
+      "field_of_study": "về kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 515,
+      "jobID": 635,
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị Nhân lực",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 516,
+      "jobID": 635,
+      "education_level": "bachelor",
+      "field_of_study": "Luật",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 517,
+      "jobID": 636,
+      "education_level": "bachelor",
+      "field_of_study": "Kinh tế lao động",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 518,
+      "jobID": 636,
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị nhân sự",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 519,
+      "jobID": 636,
+      "education_level": "bachelor",
+      "field_of_study": "Luật",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 520,
+      "jobID": 636,
+      "education_level": "bachelor",
+      "field_of_study": "QTKD",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 521,
+      "jobID": 638,
+      "education_level": "associate",
+      "field_of_study": "QTKD",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 522,
+      "jobID": 638,
+      "education_level": "associate",
+      "field_of_study": "Logistics",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 523,
+      "jobID": 638,
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 524,
+      "jobID": 642,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 525,
+      "jobID": 648,
+      "education_level": "associate",
+      "field_of_study": "Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 526,
+      "jobID": 648,
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 527,
+      "jobID": 648,
+      "education_level": "associate",
+      "field_of_study": "Điện  Điện tử",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 528,
+      "jobID": 651,
+      "education_level": "other",
+      "field_of_study": "Điện",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 529,
+      "jobID": 651,
+      "education_level": "other",
+      "field_of_study": "cơ điện tử",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 530,
+      "jobID": 651,
+      "education_level": "other",
+      "field_of_study": "điện tự động",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 531,
+      "jobID": 653,
+      "education_level": "other",
+      "field_of_study": "kỹ sư xây dựng ưu tiên chuyên ngành cầu đường",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 532,
+      "jobID": 653,
+      "education_level": "other",
+      "field_of_study": "cấp thoát nước",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 533,
+      "jobID": 654,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 534,
+      "jobID": 656,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 535,
+      "jobID": 656,
+      "education_level": "bachelor",
+      "field_of_study": "về Thiết kế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 536,
+      "jobID": 656,
+      "education_level": "bachelor",
+      "field_of_study": "đồ hoạ",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 537,
+      "jobID": 657,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 538,
+      "jobID": 657,
+      "education_level": "bachelor",
+      "field_of_study": "về Thiết kế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 539,
+      "jobID": 657,
+      "education_level": "bachelor",
+      "field_of_study": "đồ hoạ",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 540,
+      "jobID": 660,
+      "education_level": "bachelor",
+      "field_of_study": "QTKD",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 541,
+      "jobID": 660,
+      "education_level": "bachelor",
+      "field_of_study": "Kinh Tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 542,
+      "jobID": 660,
+      "education_level": "bachelor",
+      "field_of_study": "Tài Chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 543,
+      "jobID": 661,
+      "education_level": "other",
+      "field_of_study": "kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 544,
+      "jobID": 661,
+      "education_level": "other",
+      "field_of_study": "thương mại điện tử",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 545,
+      "jobID": 663,
+      "education_level": "bachelor",
+      "field_of_study": "QTKD",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 546,
+      "jobID": 663,
+      "education_level": "bachelor",
+      "field_of_study": "Kinh Tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 547,
+      "jobID": 663,
+      "education_level": "bachelor",
+      "field_of_study": "Tài Chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 548,
+      "jobID": 663,
+      "education_level": "bachelor",
+      "field_of_study": "Xuất nhập khẩu",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 549,
+      "jobID": 663,
+      "education_level": "bachelor",
+      "field_of_study": "Quản trị chuỗi cung ứng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 550,
+      "jobID": 668,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 551,
+      "jobID": 671,
+      "education_level": "associate",
+      "field_of_study": "Cơ khí",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 552,
+      "jobID": 671,
+      "education_level": "associate",
+      "field_of_study": "Kỹ thuật",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 553,
+      "jobID": 671,
+      "education_level": "associate",
+      "field_of_study": "Công nghệ",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 554,
+      "jobID": 672,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 555,
+      "jobID": 673,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 556,
+      "jobID": 674,
+      "education_level": "bachelor",
+      "field_of_study": "điện",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 557,
+      "jobID": 674,
+      "education_level": "bachelor",
+      "field_of_study": "điện dân dụng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 558,
+      "jobID": 674,
+      "education_level": "bachelor",
+      "field_of_study": "công nghệ thông tin",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 559,
+      "jobID": 675,
+      "education_level": "associate",
+      "field_of_study": "Kỹ thuật điện",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 560,
+      "jobID": 675,
+      "education_level": "associate",
+      "field_of_study": "điện tử",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 561,
+      "jobID": 675,
+      "education_level": "associate",
+      "field_of_study": "điện công nghiệp",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 562,
+      "jobID": 675,
+      "education_level": "associate",
+      "field_of_study": "điều khiển tự động",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 563,
+      "jobID": 676,
+      "education_level": "high_school",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 564,
+      "jobID": 679,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 565,
+      "jobID": 681,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 566,
+      "jobID": 682,
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 567,
+      "jobID": 682,
+      "education_level": "associate",
+      "field_of_study": "Truyền thông",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 568,
+      "jobID": 682,
+      "education_level": "associate",
+      "field_of_study": "Báo chí",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 569,
+      "jobID": 683,
+      "education_level": "associate",
+      "field_of_study": "Tài chính  Kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 570,
+      "jobID": 683,
+      "education_level": "associate",
+      "field_of_study": "Kiểm toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 571,
+      "jobID": 684,
+      "education_level": "high_school",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 572,
+      "jobID": 685,
+      "education_level": "associate",
+      "field_of_study": "Tài chính  Kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 573,
+      "jobID": 685,
+      "education_level": "associate",
+      "field_of_study": "Kiểm toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 574,
+      "jobID": 688,
+      "education_level": "other",
+      "field_of_study": "cơ khí",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 575,
+      "jobID": 688,
+      "education_level": "other",
+      "field_of_study": "chế tạo máy",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 576,
+      "jobID": 688,
+      "education_level": "other",
+      "field_of_study": "cơ khí tự động hóa",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 577,
+      "jobID": 688,
+      "education_level": "other",
+      "field_of_study": "cơ điện tử",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 578,
+      "jobID": 689,
+      "education_level": "associate",
+      "field_of_study": "Truyền thông đa phương tiện",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 579,
+      "jobID": 689,
+      "education_level": "associate",
+      "field_of_study": "Quay dựng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 580,
+      "jobID": 689,
+      "education_level": "associate",
+      "field_of_study": "Media",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 581,
+      "jobID": 689,
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 582,
+      "jobID": 692,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 583,
+      "jobID": 696,
+      "education_level": "high_school",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 584,
+      "jobID": 697,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 585,
+      "jobID": 698,
+      "education_level": "associate",
+      "field_of_study": "Ngoại Thương",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 586,
+      "jobID": 698,
+      "education_level": "associate",
+      "field_of_study": "Thương Mại",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 587,
+      "jobID": 698,
+      "education_level": "associate",
+      "field_of_study": "XNK",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 588,
+      "jobID": 698,
+      "education_level": "associate",
+      "field_of_study": "Logistics",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 589,
+      "jobID": 700,
+      "education_level": "associate",
+      "field_of_study": "Sư phạm tiếng Anh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 590,
+      "jobID": 700,
+      "education_level": "associate",
+      "field_of_study": "Ngoại ngữ tiếng Anh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 591,
+      "jobID": 700,
+      "education_level": "associate",
+      "field_of_study": "Xã hội nhân văn",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 592,
+      "jobID": 700,
+      "education_level": "associate",
+      "field_of_study": "Tâm lý học Ứng viên không có bằng cấp phù hợp nhưng đạt các yêu cầu khác vẫn có thể ứng tuyển và được hỗ trợ đào tạo",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 593,
+      "jobID": 704,
+      "education_level": "associate",
+      "field_of_study": "Cao đẳng trở lên",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 594,
+      "jobID": 707,
+      "education_level": "bachelor",
+      "field_of_study": "Xây dựng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 595,
+      "jobID": 707,
+      "education_level": "bachelor",
+      "field_of_study": "Cơ khí xây dựng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 596,
+      "jobID": 711,
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 597,
+      "jobID": 711,
+      "education_level": "associate",
+      "field_of_study": "Tài chính kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 598,
+      "jobID": 711,
+      "education_level": "associate",
+      "field_of_study": "Ngân hàng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 599,
+      "jobID": 711,
+      "education_level": "associate",
+      "field_of_study": "Luật",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 600,
+      "jobID": 711,
+      "education_level": "associate",
+      "field_of_study": "Thương mại",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 601,
+      "jobID": 711,
+      "education_level": "associate",
+      "field_of_study": "Du lịch",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 602,
+      "jobID": 713,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 603,
+      "jobID": 714,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 604,
+      "jobID": 714,
+      "education_level": "other",
+      "field_of_study": "tài chính",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 605,
+      "jobID": 714,
+      "education_level": "other",
+      "field_of_study": "bảo hiểm",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 606,
+      "jobID": 714,
+      "education_level": "other",
+      "field_of_study": "ngân hàng",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 607,
+      "jobID": 715,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 608,
+      "jobID": 719,
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 609,
+      "jobID": 719,
+      "education_level": "associate",
+      "field_of_study": "Tài chính kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 610,
+      "jobID": 719,
+      "education_level": "associate",
+      "field_of_study": "Ngân hàng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 611,
+      "jobID": 719,
+      "education_level": "associate",
+      "field_of_study": "Luật",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 612,
+      "jobID": 719,
+      "education_level": "associate",
+      "field_of_study": "Thương mại",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 613,
+      "jobID": 719,
+      "education_level": "associate",
+      "field_of_study": "Du lịch",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 614,
+      "jobID": 722,
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 615,
+      "jobID": 722,
+      "education_level": "other",
+      "field_of_study": "Du lịch",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 616,
+      "jobID": 722,
+      "education_level": "other",
+      "field_of_study": "Quản trị Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 617,
+      "jobID": 722,
+      "education_level": "other",
+      "field_of_study": "Truyền thông",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 618,
+      "jobID": 723,
+      "education_level": "associate",
+      "field_of_study": "Luật",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 619,
+      "jobID": 723,
+      "education_level": "associate",
+      "field_of_study": "Nhân sự",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 620,
+      "jobID": 723,
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 621,
+      "jobID": 724,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 622,
+      "jobID": 730,
+      "education_level": "other",
+      "field_of_study": "quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 623,
+      "jobID": 730,
+      "education_level": "other",
+      "field_of_study": "bán hàng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 624,
+      "jobID": 730,
+      "education_level": "other",
+      "field_of_study": "marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 625,
+      "jobID": 730,
+      "education_level": "other",
+      "field_of_study": "kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 626,
+      "jobID": 730,
+      "education_level": "other",
+      "field_of_study": "công nghệ thông tin",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 627,
+      "jobID": 731,
+      "education_level": "associate",
+      "field_of_study": "kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 628,
+      "jobID": 731,
+      "education_level": "associate",
+      "field_of_study": "ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 629,
+      "jobID": 733,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 630,
+      "jobID": 736,
+      "education_level": "associate",
+      "field_of_study": "Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 631,
+      "jobID": 736,
+      "education_level": "associate",
+      "field_of_study": "Xã hội",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 632,
+      "jobID": 736,
+      "education_level": "associate",
+      "field_of_study": "Ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 633,
+      "jobID": 736,
+      "education_level": "associate",
+      "field_of_study": "Giáo dục",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 634,
+      "jobID": 736,
+      "education_level": "associate",
+      "field_of_study": "Du lịch",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 635,
+      "jobID": 737,
+      "education_level": "other",
+      "field_of_study": "quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 636,
+      "jobID": 737,
+      "education_level": "other",
+      "field_of_study": "bán hàng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 637,
+      "jobID": 737,
+      "education_level": "other",
+      "field_of_study": "marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 638,
+      "jobID": 737,
+      "education_level": "other",
+      "field_of_study": "kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 639,
+      "jobID": 737,
+      "education_level": "other",
+      "field_of_study": "công nghệ thông tin",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 640,
+      "jobID": 738,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 641,
+      "jobID": 744,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 642,
+      "jobID": 745,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 643,
+      "jobID": 746,
+      "education_level": "other",
+      "field_of_study": "điện",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 644,
+      "jobID": 746,
+      "education_level": "other",
+      "field_of_study": "điện tử",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 645,
+      "jobID": 746,
+      "education_level": "other",
+      "field_of_study": "cơ khí",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 646,
+      "jobID": 746,
+      "education_level": "other",
+      "field_of_study": "công nghệ thông tin",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 647,
+      "jobID": 747,
+      "education_level": "associate",
+      "field_of_study": "Điều dưỡng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 648,
+      "jobID": 750,
+      "education_level": "other",
+      "field_of_study": "Xây dựng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 649,
+      "jobID": 753,
+      "education_level": "bachelor",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 650,
+      "jobID": 757,
+      "education_level": "other",
+      "field_of_study": "Kiến trúc",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 651,
+      "jobID": 757,
+      "education_level": "other",
+      "field_of_study": "Thiết kế nội thất Ưu tiên ứng viên có từ 1  2 năm kinh nghiệm",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 652,
+      "jobID": 761,
+      "education_level": "other",
+      "field_of_study": "Điều dưỡng Nha khoa",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 653,
+      "jobID": 762,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 654,
+      "jobID": 763,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 655,
+      "jobID": 764,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 656,
+      "jobID": 767,
+      "education_level": "other",
+      "field_of_study": "kinh tế xây dựng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 657,
+      "jobID": 768,
+      "education_level": "associate",
+      "field_of_study": "Kỹ sư xây dựng dân dụng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 658,
+      "jobID": 770,
+      "education_level": "associate",
+      "field_of_study": "kiến trúc",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 659,
+      "jobID": 770,
+      "education_level": "associate",
+      "field_of_study": "thiết kế nội thất",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 660,
+      "jobID": 773,
+      "education_level": "associate",
+      "field_of_study": "Cơ khí",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 661,
+      "jobID": 773,
+      "education_level": "associate",
+      "field_of_study": "Cơ điện tử",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 662,
+      "jobID": 773,
+      "education_level": "associate",
+      "field_of_study": "Công nghệ kỹ thuật ô tô",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 663,
+      "jobID": 773,
+      "education_level": "associate",
+      "field_of_study": "Kỹ thuật vật liệu",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 664,
+      "jobID": 777,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 665,
+      "jobID": 781,
+      "education_level": "other",
+      "field_of_study": "khách sạn",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 666,
+      "jobID": 781,
+      "education_level": "other",
+      "field_of_study": "quản trị",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 667,
+      "jobID": 782,
+      "education_level": "associate",
+      "field_of_study": "kiến trúc",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 668,
+      "jobID": 786,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 669,
+      "jobID": 789,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 670,
+      "jobID": 792,
+      "education_level": "high_school",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 671,
+      "jobID": 796,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 672,
+      "jobID": 797,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 673,
+      "jobID": 798,
+      "education_level": "high_school",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 674,
+      "jobID": 801,
+      "education_level": "bachelor",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 675,
+      "jobID": 802,
+      "education_level": "associate",
+      "field_of_study": "xây dựng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 676,
+      "jobID": 803,
+      "education_level": "high_school",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 677,
+      "jobID": 807,
+      "education_level": "high_school",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 678,
+      "jobID": 808,
+      "education_level": "other",
+      "field_of_study": "tài chính kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 679,
+      "jobID": 808,
+      "education_level": "other",
+      "field_of_study": "kiểm toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 680,
+      "jobID": 809,
+      "education_level": "other",
+      "field_of_study": "nghề kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 681,
+      "jobID": 809,
+      "education_level": "other",
+      "field_of_study": "bách khoa",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 682,
+      "jobID": 809,
+      "education_level": "other",
+      "field_of_study": "kỹ thuật",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 683,
+      "jobID": 809,
+      "education_level": "other",
+      "field_of_study": "ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 684,
+      "jobID": 809,
+      "education_level": "other",
+      "field_of_study": "sư phạm",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 685,
+      "jobID": 812,
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 686,
+      "jobID": 812,
+      "education_level": "associate",
+      "field_of_study": "Thương mại điện tử",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 687,
+      "jobID": 813,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 688,
+      "jobID": 815,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 689,
+      "jobID": 819,
+      "education_level": "other",
+      "field_of_study": "cơ khí trở lên",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 690,
+      "jobID": 819,
+      "education_level": "master",
+      "field_of_study": null,
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 691,
+      "jobID": 821,
+      "education_level": "associate",
+      "field_of_study": "Cơ khí",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 692,
+      "jobID": 821,
+      "education_level": "associate",
+      "field_of_study": "Xây dựng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 693,
+      "jobID": 821,
+      "education_level": "associate",
+      "field_of_study": "Kiến trúc",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 694,
+      "jobID": 822,
+      "education_level": "bachelor",
+      "field_of_study": "Sư phạm tiếng Anh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 695,
+      "jobID": 822,
+      "education_level": "bachelor",
+      "field_of_study": "chuyên ngành Ngôn ngữ Anh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 696,
+      "jobID": 822,
+      "education_level": "master",
+      "field_of_study": "Ngôn ngữ Anh",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 697,
+      "jobID": 823,
+      "education_level": "other",
+      "field_of_study": "QTKD",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 698,
+      "jobID": 823,
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 699,
+      "jobID": 824,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 700,
+      "jobID": 825,
+      "education_level": "other",
+      "field_of_study": "điện",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 701,
+      "jobID": 825,
+      "education_level": "other",
+      "field_of_study": "cơ khí",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 702,
+      "jobID": 826,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 703,
+      "jobID": 830,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 704,
+      "jobID": 831,
+      "education_level": "other",
+      "field_of_study": "nghề kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 705,
+      "jobID": 831,
+      "education_level": "other",
+      "field_of_study": "bách khoa",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 706,
+      "jobID": 831,
+      "education_level": "other",
+      "field_of_study": "kỹ thuật",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 707,
+      "jobID": 831,
+      "education_level": "other",
+      "field_of_study": "ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 708,
+      "jobID": 831,
+      "education_level": "other",
+      "field_of_study": "sư phạm",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 709,
+      "jobID": 833,
+      "education_level": "associate",
+      "field_of_study": "QTKD",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 710,
+      "jobID": 833,
+      "education_level": "associate",
+      "field_of_study": "XNK",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 711,
+      "jobID": 833,
+      "education_level": "associate",
+      "field_of_study": "Ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 712,
+      "jobID": 833,
+      "education_level": "associate",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 713,
+      "jobID": 835,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 714,
+      "jobID": 837,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 715,
+      "jobID": 840,
+      "education_level": "other",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 716,
+      "jobID": 840,
+      "education_level": "other",
+      "field_of_study": "Quản trị Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 717,
+      "jobID": 840,
+      "education_level": "other",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 718,
+      "jobID": 840,
+      "education_level": "other",
+      "field_of_study": "Truyền thông",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 719,
+      "jobID": 841,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 720,
+      "jobID": 847,
+      "education_level": "associate",
+      "field_of_study": "Điện",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 721,
+      "jobID": 847,
+      "education_level": "associate",
+      "field_of_study": "Điện tử",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 722,
+      "jobID": 847,
+      "education_level": "associate",
+      "field_of_study": "Tự động hóa",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 723,
+      "jobID": 848,
+      "education_level": "associate",
+      "field_of_study": "nào",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 724,
+      "jobID": 852,
+      "education_level": "other",
+      "field_of_study": "Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 725,
+      "jobID": 852,
+      "education_level": "other",
+      "field_of_study": "Kỹ thuật",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 726,
+      "jobID": 852,
+      "education_level": "other",
+      "field_of_study": "Điện  Điện tử",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 727,
+      "jobID": 852,
+      "education_level": "other",
+      "field_of_study": "Viễn thông",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 728,
+      "jobID": 852,
+      "education_level": "other",
+      "field_of_study": "Cơ điện tử",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 729,
+      "jobID": 852,
+      "education_level": "other",
+      "field_of_study": "Tự động hóa",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 730,
+      "jobID": 852,
+      "education_level": "other",
+      "field_of_study": "Kiến trúc",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 731,
+      "jobID": 852,
+      "education_level": "other",
+      "field_of_study": "Xây dựng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 732,
+      "jobID": 856,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 733,
+      "jobID": 857,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 734,
+      "jobID": 859,
+      "education_level": "associate",
+      "field_of_study": "Quản Trị Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 735,
+      "jobID": 859,
+      "education_level": "associate",
+      "field_of_study": "Kế toán",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 736,
+      "jobID": 859,
+      "education_level": "associate",
+      "field_of_study": "Văn Phòng",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 737,
+      "jobID": 859,
+      "education_level": "associate",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 738,
+      "jobID": 861,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 739,
+      "jobID": 864,
+      "education_level": "other",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 740,
+      "jobID": 865,
+      "education_level": "associate",
+      "field_of_study": "thương mại",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 741,
+      "jobID": 865,
+      "education_level": "associate",
+      "field_of_study": "QTKD",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 742,
+      "jobID": 867,
+      "education_level": "other",
+      "field_of_study": "kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 743,
+      "jobID": 868,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 744,
+      "jobID": 869,
+      "education_level": "associate",
+      "field_of_study": "kiến trúc",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 745,
+      "jobID": 871,
+      "education_level": "other",
+      "field_of_study": "Nhân sự",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 746,
+      "jobID": 871,
+      "education_level": "other",
+      "field_of_study": "Kinh tế",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 747,
+      "jobID": 871,
+      "education_level": "other",
+      "field_of_study": "Quản trị",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 748,
+      "jobID": 884,
+      "education_level": "bachelor",
+      "field_of_study": "Báo chí",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 749,
+      "jobID": 884,
+      "education_level": "bachelor",
+      "field_of_study": "Marketing",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 750,
+      "jobID": 884,
+      "education_level": "bachelor",
+      "field_of_study": "PR",
+      "mandatory": false
+    },
+    {
+      "jobEducationReqID": 751,
+      "jobID": 886,
+      "education_level": "associate",
+      "field_of_study": null,
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 752,
+      "jobID": 888,
+      "education_level": "bachelor",
+      "field_of_study": "QTKD",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 753,
+      "jobID": 888,
+      "education_level": "bachelor",
+      "field_of_study": "Marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 754,
+      "jobID": 892,
+      "education_level": "other",
+      "field_of_study": "Quản trị DVDL lữ hành",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 755,
+      "jobID": 892,
+      "education_level": "other",
+      "field_of_study": "Việt Nam học",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 756,
+      "jobID": 892,
+      "education_level": "other",
+      "field_of_study": "Quản trị Kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 757,
+      "jobID": 895,
+      "education_level": "other",
+      "field_of_study": "nghề quản trị kinh doanh",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 758,
+      "jobID": 895,
+      "education_level": "other",
+      "field_of_study": "tài chính",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 759,
+      "jobID": 895,
+      "education_level": "other",
+      "field_of_study": "marketing",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 760,
+      "jobID": 895,
+      "education_level": "other",
+      "field_of_study": "ngoại ngữ",
+      "mandatory": true
+    },
+    {
+      "jobEducationReqID": 761,
+      "jobID": 895,
+      "education_level": "other",
+      "field_of_study": "cơ khí ô tô",
+      "mandatory": true
+    }
+  ]
+}
