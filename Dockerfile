@@ -8,7 +8,7 @@ WORKDIR /app
 COPY Load_Data/ /app/Load_Data/
 
 # Cài dependencies cần thiết
-RUN pip install --no-cache-dir pandas asyncpg python-dotenv
+RUN pip install --no-cache-dir pandas asyncpg python-dotenv passlib 
 
 # Chạy Load_data.py khi container start
 CMD ["python", "/app/Load_Data/Load_data.py"]
