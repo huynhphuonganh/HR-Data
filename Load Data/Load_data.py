@@ -18,45 +18,45 @@ async def main():
     
     try:
         # # 1. Create data into table users (run only once)
-        # create_account = CreateAccount()
-        # await create_account.create_all_accounts()
-        # print("Creating Account Data")
+        create_account = CreateAccount()
+        await create_account.create_all_accounts()
+        print("Creating Account Data")
 
         # # 2. Load data into table skill
-        # skills_data = LoadSkillsData()
-        # skills = await skills_data.load_skills_unique()
-        # await skills_data.insert_skill_unique(skills)
-        # print("Loading Skills Data")
+        skills_data = LoadSkillsData()
+        skills = await skills_data.load_skills_unique()
+        await skills_data.insert_skill_unique(skills)
+        print("Loading Skills Data")
 
         # # 3. Load data into table company
-        # company_data = LoadCompanyData()
-        # companies = await company_data.load_companies()
-        # await company_data.insert_company(companies)
-        # print("Loading Company Data")
+        company_data = LoadCompanyData()
+        companies = await company_data.load_companies()
+        await company_data.insert_company(companies)
+        print("Loading Company Data")
 
         # # 4. Load data into table recruiter
-        # recruiter_data = LoadRecruiterData()
-        # recruiters = await recruiter_data.load_recruiters()
-        # await recruiter_data.insert_recruiter(recruiters)
-        # print("Loading Recruiter Data") 
+        recruiter_data = LoadRecruiterData()
+        recruiters = await recruiter_data.load_recruiters()
+        await recruiter_data.insert_recruiter(recruiters)
+        print("Loading Recruiter Data") 
 
         # # 5. Load data into table job
-        # job_data = LoadJobData()
-        # data_sources = ["Danang43", "DanangJob"]
+        job_data = LoadJobData()
+        data_sources = ["Danang43", "DanangJob"]
 
         # for src in data_sources:
-        #     jobs = await job_data.load_jobs(src)
-        #     await job_data.insert_job(jobs)
-        # print("Loading Job Data")
+            jobs = await job_data.load_jobs(src)
+            await job_data.insert_job(jobs)
+        print("Loading Job Data")
 
         # # 7. Load data into table job_education_requirement
-        # edu_loader = LoadJobEducationReqData()
-        # data_sources = ["Danang43", "DanangJob"]
+        edu_loader = LoadJobEducationReqData()
+        data_sources = ["Danang43", "DanangJob"]
         
-        # for src in data_sources:
-        #     job_edu_reqs = await edu_loader.load_job_education_reqs(src)
-        #     await edu_loader.insert_job_education_reqs(job_edu_reqs)
-        # print("Loading Job Education Requirement Data")
+        for src in data_sources:
+            job_edu_reqs = await edu_loader.load_job_education_reqs(src)
+            await edu_loader.insert_job_education_reqs(job_edu_reqs)
+        print("Loading Job Education Requirement Data")
         
         # 8. Load data into table job_skill
         job_skill_loader = LoadJobSkill()
