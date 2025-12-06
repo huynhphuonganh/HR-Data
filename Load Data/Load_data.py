@@ -44,7 +44,7 @@ async def main():
         job_data = LoadJobData()
         data_sources = ["Danang43", "DanangJob"]
 
-        # for src in data_sources:
+        for src in data_sources:
             jobs = await job_data.load_jobs(src)
             await job_data.insert_job(jobs)
         print("Loading Job Data")
