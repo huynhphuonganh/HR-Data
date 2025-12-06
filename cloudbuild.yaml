@@ -2,7 +2,58 @@ options:
   logging: CLOUD_LOGGING_ONLY
 
 steps:
+  # Step 1: Build Docker image
   - name: 'gcr.io/cloud-builders/docker'
-    args: ['build', '-t', 'gcr.io/smartcv-data-pipeline/data-pipeline:$COMMIT_SHA', '.']
+    args: 
+      - 'build'
+      - '-t'
+      - 'gcr.io/smartcv-data-pipeline/data-pipeline:$COMMIT_SHA'
+      - '-t'
+      - 'gcr.io/smartcv-data-pipeline/data-pipeline:latest'
+      - '.'
+  
+  # Step 2: Push image to Container Registry
   - name: 'gcr.io/cloud-builders/docker'
-    args: ['push', 'gcr.io/smartcv-data-pipeline/data-pipeline:$COMMIT_SHA']
+    args: 
+      - 'push'
+      - 'gcr.io/smartcv-data-pipeline/data-pipeline:$COMMIT_SHA'
+  
+  - name: 'gcr.io/cloud-builders/docker'
+    args: 
+      - 'push'
+      - 'gcr.io/smartcv-data-pipeline/data-pipeline:latest'
+
+  # Step 3: Deploy to Cloud Run Job
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'jobs'
+      - 'deploy'
+      - 'data-loader-job'
+      - '--image=gcr.io/smartcv-data-pipeline/data-pipeline:$COMMIT_SHA'
+      - '--region=asia-southeast1'
+      - '--set-env-vars=SQLALCHEMY_DATABASE_URL_CLOUD=${_DATABASE_URL}'
+      - '--max-retries=1'
+      - '--task-timeout=3600'
+      - '--memory=2Gi'
+      - '--cpu=2'
+
+  # Step 4: Execute the job
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'jobs'
+      - 'execute'
+      - 'data-loader-job'
+      - '--region=asia-southeast1'
+      - '--wait'
+
+# Substitution variables - Set trong Cloud Build Trigger
+substitutions:
+  _DATABASE_URL: 'postgresql://Admin:Grouphr-smartcv-2025@136.114.248.105:5432/HRSmartCV-'
+
+images:
+  - 'gcr.io/smartcv-data-pipeline/data-pipeline:$COMMIT_SHA'
+  - 'gcr.io/smartcv-data-pipeline/data-pipeline:latest'
