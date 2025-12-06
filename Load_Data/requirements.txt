@@ -5,3 +5,4 @@ pandas
 requests
 passlib[bcrypt]
 bcrypt
+asyncpg
