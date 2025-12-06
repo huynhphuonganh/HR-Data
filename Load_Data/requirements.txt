@@ -1,4 +1,7 @@
+sqlalchemy
+pg8000
+cloud-sql-python-connector
 pandas
-asyncpg
-python-dotenv
-passlib
+requests
+passlib[bcrypt]
+bcrypt
