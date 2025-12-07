@@ -8,12 +8,34 @@ from google.cloud.sql.connector import Connector
 load_dotenv()
 
 
-DATABASE_URL = os.getenv("SQLALCHEMY_DATABASE_URL_CLOUD")
+# Lấy thông tin kết nối
+DB_USER = "Admin"
+DB_PASSWORD = "Grouphr-smartcv-2025"
+DB_NAME = "HRSmartCV"
+DB_HOST = "136.114.248.105"
+DB_PORT = "5432"
 
-if not DATABASE_URL:
-    raise ValueError("❌ DATABASE_URL (SQLALCHEMY_DATABASE_URL_CLOUD) is not set in .env")
+if not all([DB_USER, DB_PASSWORD, DB_NAME, DB_HOST]):
+    raise ValueError("❌ Missing database connection info in .env")
 
 _pool = None
+
+async def init_connection_pool():
+    """
+    Khởi tạo connection pool
+    """
+    global _pool
+    if _pool is None:
+        _pool = await asyncpg.create_pool(
+            user=DB_USER,
+            password=DB_PASSWORD,
+            database=DB_NAME,
+            host=DB_HOST,
+            port=DB_PORT,
+            min_size=1,
+            max_size=10
+        )
+    return _pool
 
 
 @asynccontextmanager
