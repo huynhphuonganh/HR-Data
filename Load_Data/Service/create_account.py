@@ -3,6 +3,7 @@ import warnings
 import asyncpg
 import os
 import sys
+import hashlib
 
 # Import config để kết nối database
 sys.path.append(os.path.dirname(os.path.dirname(__file__)))
@@ -19,9 +20,13 @@ class CreateAccount:
         pass
 
     def _hash_password(self, password: str) -> str:
-        """Hash password using bcrypt với CryptContext"""
+        """
+        Hash password using bcrypt với CryptContext
+        Xử lý giới hạn 72 bytes của bcrypt bằng cách hash SHA256 trước
+        """
         try:
-            return pwd_context.hash(password)
+            password_hash = hashlib.sha256(password.encode('utf-8')).hexdigest()
+            return pwd_context.hash(password_hash)
         except Exception as e:
             print(f"❌ Error hashing password with bcrypt: {e}")
             raise
@@ -95,10 +100,7 @@ class CreateAccount:
                 print(f"Hiện có {existing_count} user candidate với pattern 'candidate*'")
 
                 if existing_count >= 1000:
-                    print("Đã có đủ 1000 candidate. Bạn có muốn tạo thêm không?")
-                    response = input("Nhập 'y' để tạo thêm 1000 candidate nữa: ")
-                    if response.lower() == 'y':
-                        await self.create_fake_candidates(conn, start_index=existing_count + 1, count=1000)
+                    print("✅ Đã có đủ 1000 candidate. Bỏ qua bước này.")
                 else:
                     remaining = 1000 - existing_count
                     start_index = existing_count + 1
@@ -121,10 +123,7 @@ class CreateAccount:
                 print(f"Hiện có {existing_count} user recruiter với pattern 'recruiter*'")
 
                 if existing_count >= 1000:
-                    print("Đã có đủ 1000 recruiter. Bạn có muốn tạo thêm không?")
-                    response = input("Nhập 'y' để tạo thêm 1000 recruiter nữa: ")
-                    if response.lower() == 'y':
-                        await self.create_fake_recruiters(conn, start_index=existing_count + 1, count=1000)
+                    print("✅ Đã có đủ 1000 recruiter. Bỏ qua bước này.")
                 else:
                     remaining = 1000 - existing_count
                     start_index = existing_count + 1
@@ -168,6 +167,6 @@ async def main():
         await close_connection_pool()
 
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     import asyncio
     asyncio.run(main())
