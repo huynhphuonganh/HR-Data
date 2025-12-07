@@ -1,19 +1,15 @@
-from passlib.context import CryptContext
 import warnings
 import asyncpg
 import os
 import sys
-import hashlib
+import bcrypt
 
 # Import config để kết nối database
 sys.path.append(os.path.dirname(os.path.dirname(__file__)))
 from config import get_connection, close_connection_pool
 
-# Suppress bcrypt version warnings
-warnings.filterwarnings("ignore", category=UserWarning, module="passlib")
-
-# Khởi tạo password context - GIỐNG VỚI security.py
-pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
+# Suppress warnings
+warnings.filterwarnings("ignore", category=UserWarning)
 
 class CreateAccount:
     def __init__(self):
@@ -21,14 +17,15 @@ class CreateAccount:
 
     def _hash_password(self, password: str) -> str:
         """
-        Hash password using bcrypt với CryptContext
-        Xử lý giới hạn 72 bytes của bcrypt bằng cách hash SHA256 trước
+        Hash password using bcrypt trực tiếp
         """
         try:
-            password_hash = hashlib.sha256(password.encode('utf-8')).hexdigest()
-            return pwd_context.hash(password_hash)
+            password_bytes = password.encode('utf-8')
+            salt = bcrypt.gensalt(rounds=12)
+            hashed = bcrypt.hashpw(password_bytes, salt)
+            return hashed.decode('utf-8')
         except Exception as e:
-            print(f"❌ Error hashing password with bcrypt: {e}")
+            print(f"❌ Error hashing password: {e}")
             raise
     
     async def check_existing_users(self, conn, user_type: str) -> int:
@@ -53,7 +50,7 @@ class CreateAccount:
         """Tạo fake candidate accounts"""
         print(f"🔐 Đang hash password bằng bcrypt...")
         hashed_password = self._hash_password("123456")
-        print(f"✅ Hash hoàn tất: {hashed_password[:29]}...")  # Show first 29 chars
+        print(f"✅ Hash hoàn tất: {hashed_password[:29]}...")
 
         print(f"👥 Đang tạo {count} candidate từ candidate{start_index} đến candidate{start_index + count - 1}...")
 
