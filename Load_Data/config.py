@@ -3,24 +3,20 @@ import asyncpg
 from dotenv import load_dotenv
 from contextlib import asynccontextmanager
 
-# Load biến môi trường
 load_dotenv()
 
-# Lấy thông tin kết nối TỪ ENVIRONMENT VARIABLES
-DB_USER = os.getenv("DB_USER", "Admin")
-DB_PASSWORD = os.getenv("DB_PASS", "Grouphr-smartcv-2025")
-DB_NAME = os.getenv("DB_NAME", "HRSmartCV")
-DB_HOST = os.getenv("DB_HOST", "136.114.248.105")
-DB_PORT = int(os.getenv("DB_PORT", "5432"))
-
-if not DB_PASSWORD:
-    raise ValueError("❌ DB_PASSWORD not set in environment variables")
+DB_USER = "Admin"
+DB_PASSWORD = "Grouphr-smartcv-2025"
+DB_NAME = "HRSmartCV"
+DB_HOST = "10.29.48.3" 
+DB_PORT = 5432
 
 _pool = None
 
 async def init_connection_pool():
     global _pool
     if _pool is None:
+        print(f"🔌 Connecting to {DB_HOST} (Private IP)...")
         _pool = await asyncpg.create_pool(
             user=DB_USER,
             password=DB_PASSWORD,
@@ -28,10 +24,10 @@ async def init_connection_pool():
             host=DB_HOST,
             port=DB_PORT,
             min_size=1,
-            max_size=10,
+            max_size=5,
             command_timeout=60
         )
-        print(f"✅ Connected to database: {DB_NAME} at {DB_HOST}")
+        print(f"✅ Connected to {DB_NAME}")
     return _pool
 
 @asynccontextmanager
@@ -48,4 +44,3 @@ async def close_connection_pool():
     if _pool:
         await _pool.close()
         _pool = None
-        print("✅ Database connection pool closed")
