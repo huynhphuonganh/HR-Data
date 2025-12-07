@@ -1,11 +1,10 @@
 sqlalchemy
-pg8000
-cloud-sql-python-connector
+asyncpg 
+google-cloud-sql-connector[asyncpg] 
+
+# Các thư viện khác
 pandas
 requests
 passlib[bcrypt]
 bcrypt
-asyncpg
 python-dotenv
-psycopg2-binary
-google-cloud-sql-connector
