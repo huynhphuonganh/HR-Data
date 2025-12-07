@@ -1,10 +1,17 @@
-sqlalchemy
-asyncpg 
-google-cloud-sql-connector[asyncpg] 
+# Database connectors
+sqlalchemy==2.0.23
+asyncpg==0.29.0
+google-cloud-sql-connector==1.11.3
 
-# Các thư viện khác
-pandas
-requests
-passlib[bcrypt]
-bcrypt
-python-dotenv
+# Data processing
+pandas==2.1.4
+
+# HTTP requests
+requests==2.31.0
+
+# Password hashing
+passlib==1.7.4
+bcrypt==4.1.2
+
+# Environment variables
+python-dotenv==1.0.0
