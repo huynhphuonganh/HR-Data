@@ -8,21 +8,23 @@ load_dotenv()
 DB_USER = "Admin"
 DB_PASSWORD = "Grouphr-smartcv-2025"
 DB_NAME = "HRSmartCV"
-DB_HOST = "10.29.48.3" 
-DB_PORT = 5432
+
+# Connection qua Unix socket - Cloud SQL tự động xử lý
+INSTANCE_CONNECTION_NAME = "smartcv-data-pipeline:us-central1:grouphrsmartcv"
 
 _pool = None
 
 async def init_connection_pool():
     global _pool
     if _pool is None:
-        print(f"🔌 Connecting to {DB_HOST} (Private IP)...")
+        unix_socket = f"/cloudsql/{INSTANCE_CONNECTION_NAME}"
+        print(f"🔌 Connecting via: {unix_socket}")
+        
         _pool = await asyncpg.create_pool(
             user=DB_USER,
             password=DB_PASSWORD,
             database=DB_NAME,
-            host=DB_HOST,
-            port=DB_PORT,
+            host=unix_socket,
             min_size=1,
             max_size=5,
             command_timeout=60
