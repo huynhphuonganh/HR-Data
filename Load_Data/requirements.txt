@@ -1,8 +1,8 @@
 sqlalchemy
 asyncpg
-google-cloud-sql-connector
 pandas
 requests
 passlib
 bcrypt
 python-dotenv
+psycopg2-binary
