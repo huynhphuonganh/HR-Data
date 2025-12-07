@@ -7,38 +7,13 @@ from google.cloud.sql.connector import Connector
 # Load biến môi trường
 load_dotenv()
 
-# Lấy các biến môi trường cần thiết
-DB_USER = os.getenv("DB_USER")
-DB_PASS = os.getenv("DB_PASS")
-DB_NAME = os.getenv("DB_NAME")
-INSTANCE_CONNECTION_NAME = os.getenv("CLOUD_SQL_CONNECTION_NAME")
-# DATABASE_URL = os.getenv("SQLALCHEMY_DATABASE_URL_CLOUD")
 
-if not all([DB_USER, DB_PASS, DB_NAME, INSTANCE_CONNECTION_NAME]):
-    raise ValueError("❌ Các biến DB_USER, DB_PASS, DB_NAME, CLOUD_SQL_CONNECTION_NAME chưa được set.")
+DATABASE_URL = os.getenv("SQLALCHEMY_DATABASE_URL_CLOUD")
+
+if not DATABASE_URL:
+    raise ValueError("❌ DATABASE_URL (SQLALCHEMY_DATABASE_URL_CLOUD) is not set in .env")
 
 _pool = None
-
-async def init_connection_pool():
-    """
-    Khởi tạo connection pool nếu chưa có
-    """
-   global _pool
-    if _pool is None:
-        _pool = await asyncpg.create_pool(
-            user=DB_USER,
-            password=DB_PASS,
-            database=DB_NAME,
-            min_size=1, 
-            max_size=10,
-            host="127.0.0.1",
-            loop=asyncio.get_event_loop(),
-            socket_factory=lambda: connector.connect(
-                INSTANCE_CONNECTION_NAME,
-                "asyncpg", # Chỉ định driver
-            )
-        )
-    return _pool
 
 
 @asynccontextmanager
