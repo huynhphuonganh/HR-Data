@@ -1,7 +1,7 @@
 # Database connectors
-sqlalchemy==2.0.23
+sqlalchemy==2.0.25
 asyncpg==0.29.0
-google-cloud-sql-connector==1.11.3
+google-cloud-sql-connector==1.13.0
 
 # Data processing
 pandas==2.1.4
