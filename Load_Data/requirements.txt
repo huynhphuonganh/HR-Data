@@ -7,3 +7,5 @@ passlib[bcrypt]
 bcrypt
 asyncpg
 python-dotenv
+psycopg2-binary
+google-cloud-sql-connector
