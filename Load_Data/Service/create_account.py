@@ -46,7 +46,7 @@ class CreateAccount:
             print(f"Lỗi khi kiểm tra {user_type} hiện có: {e}")
             return 0
 
-    async def create_fake_candidates(self, conn, start_index: int = 1, count: int = 1000) -> None:
+    async def create_fake_candidates(self, conn, start_index: int = 1, count: int = 2000) -> None:
         """Tạo fake candidate accounts"""
         print(f"🔐 Đang hash password bằng bcrypt...")
         hashed_password = self._hash_password("123456")
@@ -67,7 +67,7 @@ class CreateAccount:
 
         print(f"✅ Hoàn thành tạo {count} candidate!")
 
-    async def create_fake_recruiters(self, conn, start_index: int = 1, count: int = 1000) -> None:
+    async def create_fake_recruiters(self, conn, start_index: int = 1, count: int = 2000) -> None:
         """Tạo fake recruiter accounts"""
         print(f"🔐 Đang hash password bằng bcrypt...")
         hashed_password = self._hash_password("123456")
@@ -90,16 +90,16 @@ class CreateAccount:
 
     async def create_candidate_accounts(self) -> None:
         """Tạo accounts cho candidates"""
-        print("Bắt đầu quá trình tạo 1000 user candidate...")
+        print("Bắt đầu quá trình tạo 2000 user candidate...")
         try:
             async with get_connection() as conn:
                 existing_count = await self.check_existing_users(conn, 'candidate')
                 print(f"Hiện có {existing_count} user candidate với pattern 'candidate*'")
 
-                if existing_count >= 1000:
-                    print("✅ Đã có đủ 1000 candidate. Bỏ qua bước này.")
+                if existing_count >= 2000:
+                    print("✅ Đã có đủ 2000 candidate. Bỏ qua bước này.")
                 else:
-                    remaining = 1000 - existing_count
+                    remaining = 2000 - existing_count
                     start_index = existing_count + 1
                     print(f"Sẽ tạo {remaining} candidate còn lại từ candidate{start_index}")
                     await self.create_fake_candidates(conn, start_index=start_index, count=remaining)
@@ -113,16 +113,16 @@ class CreateAccount:
 
     async def create_recruiter_accounts(self) -> None:
         """Tạo accounts cho recruiters"""
-        print("Bắt đầu quá trình tạo 1000 user recruiter...")
+        print("Bắt đầu quá trình tạo 2000 user recruiter...")
         try:
             async with get_connection() as conn:
                 existing_count = await self.check_existing_users(conn, 'recruiter')
                 print(f"Hiện có {existing_count} user recruiter với pattern 'recruiter*'")
 
-                if existing_count >= 1000:
-                    print("✅ Đã có đủ 1000 recruiter. Bỏ qua bước này.")
+                if existing_count >= 2000:
+                    print("✅ Đã có đủ 2000 recruiter. Bỏ qua bước này.")
                 else:
-                    remaining = 1000 - existing_count
+                    remaining = 2000 - existing_count
                     start_index = existing_count + 1
                     print(f"Sẽ tạo {remaining} recruiter còn lại từ recruiter{start_index}")
                     await self.create_fake_recruiters(conn, start_index=start_index, count=remaining)
